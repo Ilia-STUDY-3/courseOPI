@@ -1,0 +1,90 @@
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
+}
+
+.skill-card {
+  background-color: #0f1a2c;
+  border: 2px solid #2c3e50;
+  border-radius: 12px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.skill-card:hover {
+  transform: scale(1.05);
+}
+
+.skill-icon {
+  width: 48px;
+  height: 48px;
+  margin-bottom: 8px;
+}
+
+#guide-section {
+  display: none;
+  padding: 20px;
+  background-color: #1c1c1c;
+  color: #ccc;
+  max-width: 1100px;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+
+#guide-section.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+
+.highlight {
+  animation: highlightAnimation 3s ease;
+}
+
+@keyframes highlightAnimation {
+  0% { background-color: rgb(255, 217, 0); } /* Золотой подсвет */
+  50% { background-color: rgba(199, 169, 0, 0.286); }
+  100% { background-color: transparent; }
+}
+
+.guide-tips h3, .guide-skill-order h3 {
+  color: #4db5ff;
+  margin-bottom: 10px;
+}
+
+.guide-tips ul {
+  list-style: disc;
+  padding-left: 20px;
+  color: #ccc;
+}
+
+.guide-tips li {
+  font-size: 16px;
+  line-height: 2.5; 
+  margin-bottom: 10px; 
+  color: #ddd;
+}
+
+.guide-tips li::marker {
+  color: #0000; /* цвет точки */
+}
+
+.guide-tips, .guide-skill-order {
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #141414;
+  border-radius: 12px;
+}
+
+
+.guide-skill-order p {
+  color: #ccc;
+  font-size: 16px;
+}

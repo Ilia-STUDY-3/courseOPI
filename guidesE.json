@@ -1,0 +1,4961 @@
+[
+  {
+    "title": "Aatrox — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/aatrox.png",
+    "description": "Aatrox — боец с отличным сустейном и мощным уроном в ближнем бою.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Deathbringer Stance",
+        "description": "Периодически следующий автоатак наносит дополнительный урон и лечит Аатрокса.",
+        "img": "https://www.mobafire.com/images/ability/aatrox-deathbringer-stance.png"
+      },
+      {
+        "name": "Q",
+        "title": "The Darkin Blade",
+        "description": "Аатрокс совершает до трёх ударов мечом, каждый со своей зоной поражения.",
+        "img": "https://www.mobafire.com/images/ability/aatrox-the-darkin-blade.png"
+      },
+      {
+        "name": "W",
+        "title": "Infernal Chains",
+        "description": "Бросает цепь, замедляя врага; если цель не покидает зону, её притягивает в центр.",
+        "img": "https://www.mobafire.com/images/ability/aatrox-infernal-chains.png"
+      },
+      {
+        "name": "E",
+        "title": "Umbral Dash",
+        "description": "Пассивно даёт вампиризм. Активно — совершает рывок, может использоваться во время других умений.",
+        "img": "https://www.mobafire.com/images/ability/aatrox-umbral-dash.png"
+      },
+      {
+        "name": "R",
+        "title": "World Ender",
+        "description": "Аатрокс становится огромным, получает урон, скорость и воскрешается при убийствах.",
+        "img": "https://www.mobafire.com/images/ability/aatrox-world-ender.png"
+      }
+    ],
+    "id": "aatrox",
+    "role": "Solo Jungle"
+  },
+  {
+    "title": "Ahri — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/ahri.png",
+    "description": "Ahri — маг с высокой мобильностью и сильным уроном.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Essence Theft",
+        "description": "исцеление после нескольких способностей.",
+        "img": "https://www.mobafire.com/images/ability/ahri-essence-theft.png"
+      },
+      {
+        "name": "Q",
+        "title": "Orb of Deception",
+        "description": "пускает шар, наносит магический урон туда и обратно.",
+        "img": "https://www.mobafire.com/images/ability/ahri-orb-of-deception.png"
+      },
+      {
+        "name": "W",
+        "title": "Fox-Fire",
+        "description": "выпускает огоньки, автонаводятся на врагов.",
+        "img": "https://www.mobafire.com/images/ability/ahri-fox-fire.png"
+      },
+      {
+        "name": "E",
+        "title": "Charm",
+        "description": "посылает поцелуй, чарует врага.",
+        "img": "https://www.mobafire.com/images/ability/ahri-charm.png"
+      },
+      {
+        "name": "R",
+        "title": "Spirit Rush",
+        "description": "рывок 3 раза, наносит урон ближайшим врагам.",
+        "img": "https://www.mobafire.com/images/ability/ahri-spirit-rush.png"
+      }
+    ],
+    "id": "ahri",
+    "role": "Mid"
+  },
+  {
+    "title": "Akali — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/akali.png",
+    "description": "Akali — мобильный убийца с высоким уроном и возможностью уклоняться от атак.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Assassin's Mark",
+        "description": "Нанесение урона умением создаёт круг вокруг цели. Выход за его пределы усиливает следующую автоатаку.",
+        "img": "https://www.mobafire.com/images/ability/akali-assassins-mark.png"
+      },
+      {
+        "name": "Q",
+        "title": "Five Point Strike",
+        "description": "Бросает пять кинжалов веером, нанося магический урон. При полной энергии замедляет.",
+        "img": "https://www.mobafire.com/images/ability/akali-five-point-strike.png"
+      },
+      {
+        "name": "W",
+        "title": "Twilight Shroud",
+        "description": "Создаёт облако дыма. Внутри Акали становится невидимой и получает бонус к скорости передвижения.",
+        "img": "https://www.mobafire.com/images/ability/akali-twilight-shroud.png"
+      },
+      {
+        "name": "E",
+        "title": "Shuriken Flip",
+        "description": "Бросает сюрикен, который наносит урон и позволяет прыгнуть к помеченной цели.",
+        "img": "https://www.mobafire.com/images/ability/akali-shuriken-flip.png"
+      },
+      {
+        "name": "R",
+        "title": "Perfect Execution",
+        "description": "Прыгает дважды: первый рывок наносит физический урон и оглушает, второй — магический урон, зависящий от недостающего здоровья цели.",
+        "img": "https://www.mobafire.com/images/ability/akali-perfect-execution.png"
+      }
+    ],
+    "id": "akali",
+    "role": "Solo Mid"
+  },
+  {
+    "title": "Akshan — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/akshan.png",
+    "description": "Akshan — стрелок с высокой мобильностью, невидимостью и способностью воскрешать союзников.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Dirty Fighting",
+        "description": "Каждая вторая автоатака наносит дополнительный урон и даёт ускорение. После умения следующая атака стреляет дважды.",
+        "img": "https://www.mobafire.com/images/ability/akshan-dirty-fighting.png"
+      },
+      {
+        "name": "Q",
+        "title": "Avengerang",
+        "description": "Бумеранг, наносящий урон при полёте туда и обратно. Дальность увеличивается при попадании по врагам.",
+        "img": "https://www.mobafire.com/images/ability/akshan-avengerang.png"
+      },
+      {
+        "name": "W",
+        "title": "Going Rogue",
+        "description": "Пассивно: враги, убившие союзников, становятся «Злодеями». Убийство Злодея воскрешает союзников. Активно: становится невидимым и получает скорость передвижения.",
+        "img": "https://www.mobafire.com/images/ability/akshan-going-rogue.png"
+      },
+      {
+        "name": "E",
+        "title": "Heroic Swing",
+        "description": "Стреляет крюком, раскачивается по кругу и стреляет по врагам во время движения. Может отменить рывок.",
+        "img": "https://www.mobafire.com/images/ability/akshan-heroic-swing.png"
+      },
+      {
+        "name": "R",
+        "title": "Comeuppance",
+        "description": "Заряжает свой пистолет, стреляя серией пуль по одному врагу, нанося большой урон в зависимости от недостающего здоровья.",
+        "img": "https://www.mobafire.com/images/ability/akshan-comeuppance.png"
+      }
+    ],
+    "id": "akshan",
+    "role": "Mid"
+  },
+  {
+    "title": "Alistar — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/alistar.png",
+    "description": "Alistar — танк и саппорт, отлично контролирует врагов и защищает союзников.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Triumphant Roar",
+        "description": "Периодически лечит себя и ближайших союзников при оглушении врагов или гибели рядом миньонов.",
+        "img": "https://www.mobafire.com/images/ability/alistar-triumphant-roar.png"
+      },
+      {
+        "name": "Q",
+        "title": "Pulverize",
+        "description": "Подбрасывает врагов в воздух и оглушает их.",
+        "img": "https://www.mobafire.com/images/ability/alistar-pulverize.png"
+      },
+      {
+        "name": "W",
+        "title": "Headbutt",
+        "description": "Таранит врага, отбрасывая его назад. Можно комбинировать с Q для цепочки контроля.",
+        "img": "https://www.mobafire.com/images/ability/alistar-headbutt.png"
+      },
+      {
+        "name": "E",
+        "title": "Trample",
+        "description": "При получении урона топчет землю, нанося урон и оглушая при накоплении зарядов.",
+        "img": "https://www.mobafire.com/images/ability/alistar-trample.png"
+      },
+      {
+        "name": "R",
+        "title": "Unbreakable Will",
+        "description": "Снимает все эффекты контроля и резко снижает получаемый урон на короткое время.",
+        "img": "https://www.mobafire.com/images/ability/alistar-unbreakable-will.png"
+      }
+    ],
+    "id": "alistar",
+    "role": "Support"
+  },
+  {
+    "title": "Ambessa — Гайд",
+    "img": "https://www.wildriftfire.com/images/champion/icon/ambessa.png",
+    "description": "Ambessa — скрытная ассасинша с высоким уроном и возможностью уйти в невидимость.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Shadow Veil",
+        "description": "После использования умения Ambessa становится невидимой на 2 секунды и получает бонус к скорости передвижения.",
+        "img": "https://www.wildriftfire.com/images/abilities/ambessa-drakehound-s-step.png"
+      },
+      {
+        "name": "Q",
+        "title": "Dagger Strike",
+        "description": "Бросает кинжал вперёд, нанося урон первому поражённому врагу и помечая его кровоточением.",
+        "img": " https://www.wildriftfire.com/images/abilities/ambessa-cunning-sweep-sundering-slam.png "
+      },
+      {
+        "name": "W",
+        "title": "Veil Step",
+        "description": "Телепортируется на небольшое расстояние к выбранной точке и оставляет за собой дымовую завесу.",
+        "img": "  "
+      },
+      {
+        "name": "E",
+        "title": "Crimson Chains",
+        "description": "Запускает цепи, которые пронзают всех врагов на пути, замедляя их и создавая область, где они получают дополнительный урон.",
+        "img": " https://www.wildriftfire.com/images/abilities/ambessa-lacerate.png "
+      },
+      {
+        "name": "R",
+        "title": "Nightfall Eclipse",
+        "description": "Ambessa мгновенно исчезает, а затем появляется в центре большой тёмной тени, нанося урон и оглушая всех врагов вокруг.",
+        "img": " https://www.wildriftfire.com/images/abilities/ambessa-public-execution.png "
+      }
+    ],
+    "id": "ambessa",
+    "role": "Solo Jungle"
+  },
+  {
+    "title": "Amumu — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/amumu.png",
+    "description": "Amumu — танк и инициатор с мощным контролем и AoE-уроном. Отлично подходит для командных боёв и леса.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Cursed Touch",
+        "description": "Атаки и умения Амуму проклинают врагов, увеличивая получаемый магический урон.",
+        "img": "https://www.mobafire.com/images/ability/amumu-cursed-touch.png"
+      },
+      {
+        "name": "Q",
+        "title": "Bandage Toss",
+        "description": "Бросает повязку, оглушая врага и притягиваясь к нему, нанося магический урон.",
+        "img": "https://www.mobafire.com/images/ability/amumu-bandage-toss.png"
+      },
+      {
+        "name": "W",
+        "title": "Despair",
+        "description": "Амуму излучает отчаяние, нанося врагам рядом урон каждую секунду в зависимости от их максимального здоровья.",
+        "img": "https://www.mobafire.com/images/ability/amumu-despair.png"
+      },
+      {
+        "name": "E",
+        "title": "Tantrum",
+        "description": "Пассивно уменьшает урон от автоатак. Активно наносит урон врагам вокруг. Перезарядка сокращается при получении урона.",
+        "img": "https://www.mobafire.com/images/ability/amumu-tantrum.png"
+      },
+      {
+        "name": "R",
+        "title": "Curse of the Sad Mummy",
+        "description": "Амуму выпускает волну магии, оглушая всех врагов вокруг и нанося им урон.",
+        "img": "https://www.mobafire.com/images/ability/amumu-curse-of-the-sad-mummy.png"
+      }
+    ],
+    "id": "amumu",
+    "role": "Jungle"
+  },
+  {
+    "title": "Annie — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/annie.png",
+    "description": "Annie — мощный маг с простыми механиками и сильным контролем. Идеальна для новичков и надёжна в командных боях.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Pyromania",
+        "description": "Каждое четвёртое применённое умение оглушает цель на короткое время.",
+        "img": "https://www.mobafire.com/images/ability/annie-pyromania.png"
+      },
+      {
+        "name": "Q",
+        "title": "Disintegrate",
+        "description": "Бросает огненный шар, нанося урон. Если убивает цель — восстанавливает ману и перезарядку.",
+        "img": "https://www.mobafire.com/images/ability/annie-disintegrate.png"
+      },
+      {
+        "name": "W",
+        "title": "Incinerate",
+        "description": "Извергает конус пламени перед собой, нанося урон всем врагам в зоне действия.",
+        "img": "https://www.mobafire.com/images/ability/annie-incinerate.png"
+      },
+      {
+        "name": "E",
+        "title": "Molten Shield",
+        "description": "Окутывает себя щитом, уменьшая получаемый урон и отражая его обратно атакующему.",
+        "img": "https://www.mobafire.com/images/ability/annie-molten-shield.png"
+      },
+      {
+        "name": "R",
+        "title": "Summon: Tibbers",
+        "description": "Призывает медведя Тибберса, который наносит урон при появлении и сражается рядом с Анни.",
+        "img": "https://www.mobafire.com/images/ability/annie-summon-tibbers.png"
+      }
+    ],
+    "id": "annie",
+    "role": "Mid"
+  },
+  {
+    "title": "Ashe — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/ashe.png",
+    "description": "Ashe — стрелок с мощным замедлением, глобальным контролем и отличной утилити.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Frost Shot",
+        "description": "Атаки и умения Ashe замедляют врагов. Атаки по замедленным врагам наносят больше урона.",
+        "img": "https://www.mobafire.com/images/ability/ashe-frost-shot.png"
+      },
+      {
+        "name": "Q",
+        "title": "Ranger's Focus",
+        "description": "Увеличивает скорость атаки и превращает автоатаки в серию мощных выстрелов.",
+        "img": "https://www.mobafire.com/images/ability/ashe-rangers-focus.png"
+      },
+      {
+        "name": "W",
+        "title": "Volley",
+        "description": "Выстреливает веером стрел, нанося урон и замедляя всех поражённых врагов.",
+        "img": "https://www.mobafire.com/images/ability/ashe-volley.png"
+      },
+      {
+        "name": "E",
+        "title": "Hawkshot",
+        "description": "Отправляет сокола, который раскрывает область на карте и позволяет следить за врагами.",
+        "img": "https://www.mobafire.com/images/ability/ashe-hawkshot.png"
+      },
+      {
+        "name": "R",
+        "title": "Enchanted Crystal Arrow",
+        "description": "Стреляет огромной стрелой по всей карте. При попадании оглушает врага и наносит урон, оглушение длится дольше при дальнем выстреле.",
+        "img": "https://www.mobafire.com/images/ability/ashe-enchanted-crystal-arrow.png"
+      }
+    ],
+    "id": "ashe",
+    "role": "Duo"
+  },
+  {
+    "title": "Aurelion Sol — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/aurelion-sol.png",
+    "description": "Aurelion Sol — маг с уникальной механикой звёздной магии и высоким уроном по площади.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Cosmic Creator",
+        "description": "Умения Аурелиона оставляют звёздную пыль, усиливая другие способности по мере её накопления.",
+        "img": "https://www.mobafire.com/images/ability/aurelion-sol-cosmic-creator.png"
+      },
+      {
+        "name": "Q",
+        "title": "Breath of Light",
+        "description": "Извергает поток звёздного пламени, нанося урон врагам и усиливаясь при накоплении пыли.",
+        "img": "https://www.mobafire.com/images/ability/aurelion-sol-breath-of-light.png"
+      },
+      {
+        "name": "W",
+        "title": "Astral Flight",
+        "description": "Летит над землёй, может использовать Q во время полёта и наносит дополнительный урон под собой.",
+        "img": "https://www.mobafire.com/images/ability/aurelion-sol-astral-flight.png"
+      },
+      {
+        "name": "E",
+        "title": "Singularity",
+        "description": "Создаёт чёрную дыру, замедляющую и притягивающую врагов внутрь, в конце наносит урон.",
+        "img": "https://www.mobafire.com/images/ability/aurelion-sol-singularity.png"
+      },
+      {
+        "name": "R",
+        "title": "Falling Star / The Skies Descend",
+        "description": "Призывает метеор, нанося урон и оглушая. При достаточном количестве пыли превращается в огромный метеор, наносящий урон по площади и подбрасывающий врагов.",
+        "img": "https://www.mobafire.com/images/ability/aurelion-sol-falling-star.png"
+      }
+    ],
+    "id": "aurelionsol",
+    "role": "Mid"
+  },
+  {
+    "title": "Blitzcrank — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/blitzcrank.png",
+    "description": "Blitzcrank — саппорт с мощным инициационным потенциалом, способный вырывать ключевых врагов.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Mana Barrier",
+        "description": "При низком уровне здоровья создает щит, равный проценту от текущей маны.",
+        "img": "https://www.mobafire.com/images/ability/blitzcrank-mana-barrier.png"
+      },
+      {
+        "name": "Q",
+        "title": "Rocket Grab",
+        "description": "Выстреливает рукой и притягивает первого задетого врага к себе, нанося урон.",
+        "img": "https://www.mobafire.com/images/ability/blitzcrank-rocket-grab.png"
+      },
+      {
+        "name": "W",
+        "title": "Overdrive",
+        "description": "Увеличивает скорость передвижения и атаки на короткое время.",
+        "img": "https://www.mobafire.com/images/ability/blitzcrank-overdrive.png"
+      },
+      {
+        "name": "E",
+        "title": "Power Fist",
+        "description": "Улучшает следующую автоатаку, которая наносит двойной урон и подбрасывает цель.",
+        "img": "https://www.mobafire.com/images/ability/blitzcrank-power-fist.png"
+      },
+      {
+        "name": "R",
+        "title": "Static Field",
+        "description": "Пассивно наносит периодический урон ближайшим врагам. Активно — наносит магический урон и прерывает заклинания всех врагов поблизости.",
+        "img": "https://www.mobafire.com/images/ability/blitzcrank-static-field.png"
+      }
+    ],
+    "id": "blitzcrank",
+    "role": "Support"
+  },
+  {
+    "title": "Brand — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/brand.png",
+    "description": "Brand — мощный маг, способный наносить колоссальный урон по области с помощью своих умений.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Blaze",
+        "description": "Умения поджигают врагов, нанося периодический урон. При убийстве врага, охваченного огнём, создаётся взрыв.",
+        "img": "https://www.mobafire.com/images/ability/brand-blaze.png"
+      },
+      {
+        "name": "Q",
+        "title": "Sear",
+        "description": "Бросает огненный шар. Если цель уже подожжена, оглушает её.",
+        "img": "https://www.mobafire.com/images/ability/brand-sear.png"
+      },
+      {
+        "name": "W",
+        "title": "Pillar of Flame",
+        "description": "Создаёт огненную колонну в области. Наносит увеличенный урон по подожжённым врагам.",
+        "img": "https://www.mobafire.com/images/ability/brand-pillar-of-flame.png"
+      },
+      {
+        "name": "E",
+        "title": "Conflagration",
+        "description": "Поджигает врага. Если цель уже охвачена пламенем, поджигает окружающих врагов.",
+        "img": "https://www.mobafire.com/images/ability/brand-conflagration.png"
+      },
+      {
+        "name": "R",
+        "title": "Pyroclasm",
+        "description": "Запускает огненный снаряд, который скачет между врагами, нанося урон. Приоритет — подожжённые враги.",
+        "img": "https://www.mobafire.com/images/ability/brand-pyroclasm.png"
+      }
+    ],
+    "id": "brand",
+    "role": "Mid Support"
+  },
+  {
+    "title": "Braum — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/braum.png",
+    "description": "Braum — защитник с мощным контролем и способностью прикрывать союзников от урона.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Concussive Blows",
+        "description": "Атаки и умения Браума накладывают метку. После нескольких ударов цель оглушается и получает дополнительный урон.",
+        "img": "https://www.mobafire.com/images/ability/braum-concussive-blows.png"
+      },
+      {
+        "name": "Q",
+        "title": "Winter's Bite",
+        "description": "Браум выпускает ледяной снаряд, нанося урон и замедляя цель, накладывая метку пассивного умения.",
+        "img": "https://www.mobafire.com/images/ability/braum-winters-bite.png"
+      },
+      {
+        "name": "W",
+        "title": "Stand Behind Me",
+        "description": "Браум прыгает к союзнику, давая себе и ему бонус к броне и сопротивлению магии.",
+        "img": "https://www.mobafire.com/images/ability/braum-stand-behind-me.png"
+      },
+      {
+        "name": "E",
+        "title": "Unbreakable",
+        "description": "Поднимает щит в указанном направлении, блокируя урон и уничтожая первый вражеский снаряд.",
+        "img": "https://www.mobafire.com/images/ability/braum-unbreakable.png"
+      },
+      {
+        "name": "R",
+        "title": "Glacial Fissure",
+        "description": "Браум бьёт по земле, создавая трещину, которая подбрасывает врагов вверх и замедляет их.",
+        "img": "https://www.mobafire.com/images/ability/braum-glacial-fissure.png"
+      }
+    ],
+    "id": "braum",
+    "role": "Support"
+  },
+  {
+    "title": "Caitlyn — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/caitlyn.png",
+    "description": "Caitlyn — АДК с большим радиусом атаки и отличным контролем зоны.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Headshot",
+        "description": "Каждая 6-я автоатака наносит дополнительный урон. Атаки по пойманным в ловушку или замедленным врагам ускоряют накопление выстрелов.",
+        "img": "https://www.mobafire.com/images/ability/caitlyn-headshot.png"
+      },
+      {
+        "name": "Q",
+        "title": "Piltover Peacemaker",
+        "description": "Caitlyn заряжает винтовку и выпускает мощный выстрел, нанося урон врагам по линии.",
+        "img": "https://www.mobafire.com/images/ability/caitlyn-piltover-peacemaker.png"
+      },
+      {
+        "name": "W",
+        "title": "Yordle Snap Trap",
+        "description": "Устанавливает ловушку, которая обездвиживает врагов, наступивших на неё, и даёт гарантированный критический выстрел.",
+        "img": "https://www.mobafire.com/images/ability/caitlyn-yordle-snap-trap.png"
+      },
+      {
+        "name": "E",
+        "title": "90 Caliber Net",
+        "description": "Отталкивает Caitlyn назад и замедляет противника. Может использоваться для уворота или преследования.",
+        "img": "https://www.mobafire.com/images/ability/caitlyn-90-caliber-net.png"
+      },
+      {
+        "name": "R",
+        "title": "Ace in the Hole",
+        "description": "Наводит винтовку на врага и выпускает выстрел с огромной дальностью, нанося урон первому вражескому чемпиону на пути.",
+        "img": "https://www.mobafire.com/images/ability/caitlyn-ace-in-the-hole.png"
+      }
+    ],
+    "id": "caitlyn",
+    "role": "Duo"
+  },
+  {
+    "title": "Camille — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/camille.png",
+    "description": "Camille — мобильный боец, отлично подходящий для дуэлей и агрессивной игры в сплит-пуш.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Adaptive Defenses",
+        "description": "Автоатаки по чемпионам дают щит от магического или физического урона в зависимости от типа урона цели.",
+        "img": "https://www.mobafire.com/images/ability/camille-adaptive-defenses.png"
+      },
+      {
+        "name": "Q",
+        "title": "Precision Protocol",
+        "description": "Две автоатаки усиливаются, вторая наносит бонусный истинный урон.",
+        "img": "https://www.mobafire.com/images/ability/camille-precision-protocol.png"
+      },
+      {
+        "name": "W",
+        "title": "Tactical Sweep",
+        "description": "Камилла рассекает зону перед собой, замедляя и лечась от врагов на внешней части зоны.",
+        "img": "https://www.mobafire.com/images/ability/camille-tactical-sweep.png"
+      },
+      {
+        "name": "E",
+        "title": "Hookshot",
+        "description": "Захватывает стену и может прыгнуть к врагу, оглушая его при попадании.",
+        "img": "https://www.mobafire.com/images/ability/camille-hookshot.png"
+      },
+      {
+        "name": "R",
+        "title": "The Hextech Ultimatum",
+        "description": "Изолирует цель в зоне, Камилла не может быть прервана, пока она в ней. Враг не может покинуть арену.",
+        "img": "https://www.mobafire.com/images/ability/camille-the-hextech-ultimatum.png"
+      }
+    ],
+    "id": "camille",
+    "role": "Solo"
+  },
+  {
+    "title": "Corki — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/corki.png",
+    "description": "Corki — стрелок-маг с гибридным уроном и высокой мобильностью.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Hextech Munitions",
+        "description": "Половина урона от автоатак и умений становится магическим. Периодически может подобрать Посылку для усиленной мобильности.",
+        "img": "https://www.mobafire.com/images/ability/corki-hextech-munitions.png"
+      },
+      {
+        "name": "Q",
+        "title": "Phosphorus Bomb",
+        "description": "Бросает бомбу, нанося магический урон и раскрывая зону.",
+        "img": "https://www.mobafire.com/images/ability/corki-phosphorus-bomb.png"
+      },
+      {
+        "name": "W",
+        "title": "Valkyrie",
+        "description": "Corki совершает рывок и оставляет за собой след, нанося урон врагам на пути.",
+        "img": "https://www.mobafire.com/images/ability/corki-valkyrie.png"
+      },
+      {
+        "name": "E",
+        "title": "Gatling Gun",
+        "description": "Выпускает пулемётный огонь по направлению, нанося урон и снижая сопротивление врагов.",
+        "img": "https://www.mobafire.com/images/ability/corki-gatling-gun.png"
+      },
+      {
+        "name": "R",
+        "title": "Missile Barrage",
+        "description": "Периодически получает ракеты, которые можно запускать по области. Каждая 3-я — большая ракета с повышенным уроном.",
+        "img": "https://www.mobafire.com/images/ability/corki-missile-barrage.png"
+      }
+    ],
+    "id": "corki",
+    "role": "Mid Duo"
+  },
+  {
+    "title": "Darius — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/darius.png",
+    "description": "Darius — мощный топер с высоким уроном и опасностью в затяжных боях.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Hemorrhage",
+        "description": "Атаки и умения накладывают кровотечение. При 5 стаках следующий удар наносит огромный урон и активирует Noxian Might.",
+        "img": "https://www.mobafire.com/images/ability/darius-hemorrhage.png"
+      },
+      {
+        "name": "Q",
+        "title": "Decimate",
+        "description": "Вращает топор по кругу. Враги на краю получают больше урона, а Дариус лечится с каждого поражённого врага.",
+        "img": "https://www.mobafire.com/images/ability/darius-decimate.png"
+      },
+      {
+        "name": "W",
+        "title": "Crippling Strike",
+        "description": "Усиливает следующую автоатаку, замедляя врага и возвращая часть маны при убийстве.",
+        "img": "https://www.mobafire.com/images/ability/darius-crippling-strike.png"
+      },
+      {
+        "name": "E",
+        "title": "Apprehend",
+        "description": "Притягивает врагов и даёт броню. Отлично инициирует или прерывает врагов.",
+        "img": "https://www.mobafire.com/images/ability/darius-apprehend.png"
+      },
+      {
+        "name": "R",
+        "title": "Noxian Guillotine",
+        "description": "Прыгает к врагу и наносит добивающий удар. Урон зависит от стаков кровотечения. Можно использовать повторно при убийстве.",
+        "img": "https://www.mobafire.com/images/ability/darius-noxian-guillotine.png"
+      }
+    ],
+    "id": "darius",
+    "role": "Solo Jungle"
+  },
+  {
+    "title": "Diana — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/diana.png",
+    "description": "Diana — маг-боец, отлично подходит для агрессивного врыва и нанесения взрывного урона.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Moonsilver Blade",
+        "description": "Каждая третья атака наносит дополнительный магический урон и ускоряет следующие атаки.",
+        "img": "https://www.mobafire.com/images/ability/diana-moonsilver-blade.png"
+      },
+      {
+        "name": "Q",
+        "title": "Crescent Strike",
+        "description": "Запускает изогнутый снаряд, нанося урон и накладывая метку на врагов.",
+        "img": "https://www.mobafire.com/images/ability/diana-crescent-strike.png"
+      },
+      {
+        "name": "W",
+        "title": "Pale Cascade",
+        "description": "Создаёт сферы, нанося урон вокруг. При разрушении восстанавливает здоровье.",
+        "img": "https://www.mobafire.com/images/ability/diana-pale-cascade.png"
+      },
+      {
+        "name": "E",
+        "title": "Lunar Rush",
+        "description": "Совершает рывок к врагу. При метке от Q не имеет отката.",
+        "img": "https://www.mobafire.com/images/ability/diana-lunar-rush.png"
+      },
+      {
+        "name": "R",
+        "title": "Moonfall",
+        "description": "Притягивает врагов и наносит урон в зависимости от их количества.",
+        "img": "https://www.mobafire.com/images/ability/diana-moonfall.png"
+      }
+    ],
+    "id": "diana",
+    "role": "Mid Jungle"
+  },
+  {
+    "title": "Dr. Mundo — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/dr-mundo.png",
+    "description": "Dr. Mundo — танк-регенератор, способный впитывать огромное количество урона.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Goes Where He Pleases",
+        "description": "Сопротивление контролю и восстановление части здоровья при потере.",
+        "img": "https://www.mobafire.com/images/ability/dr-mundo-goes-where-he-pleases.png"
+      },
+      {
+        "name": "Q",
+        "title": "Infected Bonesaw",
+        "description": "Бросает пилу, нанося магический урон и замедляя врагов.",
+        "img": "https://www.mobafire.com/images/ability/dr-mundo-infected-bonesaw.png"
+      },
+      {
+        "name": "W",
+        "title": "Heart Zapper",
+        "description": "Поглощает урон и в конце наносит урон окружающим.",
+        "img": "https://www.mobafire.com/images/ability/dr-mundo-heart-zapper.png"
+      },
+      {
+        "name": "E",
+        "title": "Blunt Force Trauma",
+        "description": "Увеличивает урон от следующей атаки. Если цель умирает — отбрасывается.",
+        "img": "https://www.mobafire.com/images/ability/dr-mundo-blunt-force-trauma.png"
+      },
+      {
+        "name": "R",
+        "title": "Maximum Dosage",
+        "description": "Мгновенно лечится и получает бонус к скорости и восстановлению здоровья.",
+        "img": "https://www.mobafire.com/images/ability/dr-mundo-maximum-dosage.png"
+      }
+    ],
+    "id": "drmundo",
+    "role": "Solo"
+  },
+  {
+    "title": "Draven — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/draven.png",
+    "description": "Draven — АДК, обладающий мощным уроном с автоатак при грамотной игре с топорами.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "League of Draven",
+        "description": "Убийства врагов дают бонусное золото, если были собраны крутящиеся топоры.",
+        "img": "https://www.mobafire.com/images/ability/draven-league-of-draven.png"
+      },
+      {
+        "name": "Q",
+        "title": "Spinning Axe",
+        "description": "Следующая автоатака наносит дополнительный урон и запускает топор в воздух.",
+        "img": "https://www.mobafire.com/images/ability/draven-spinning-axe.png"
+      },
+      {
+        "name": "W",
+        "title": "Blood Rush",
+        "description": "Увеличивает скорость передвижения и атаки на короткое время.",
+        "img": "https://www.mobafire.com/images/ability/draven-blood-rush.png"
+      },
+      {
+        "name": "E",
+        "title": "Stand Aside",
+        "description": "Бросает топоры в стороны, замедляя и отбрасывая врагов.",
+        "img": "https://www.mobafire.com/images/ability/draven-stand-aside.png"
+      },
+      {
+        "name": "R",
+        "title": "Whirling Death",
+        "description": "Бросает два гигантских топора, которые возвращаются, нанося урон в обе стороны.",
+        "img": "https://www.mobafire.com/images/ability/draven-whirling-death.png"
+      }
+    ],
+    "id": "draven",
+    "role": "Duo"
+  },
+  {
+    "title": "Ekko — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/ekko.png",
+    "description": "Ekko — мобильный убийца с возможностью управлять временем и наносить взрывной урон.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Z-Drive Resonance",
+        "description": "Каждая третья атака по врагу наносит бонусный урон и замедляет.",
+        "img": "https://www.mobafire.com/images/ability/ekko-z-drive-resonance.png"
+      },
+      {
+        "name": "Q",
+        "title": "Timewinder",
+        "description": "Бросает устройство, которое возвращается, нанося урон на обоих этапах.",
+        "img": "https://www.mobafire.com/images/ability/ekko-timewinder.png"
+      },
+      {
+        "name": "W",
+        "title": "Parallel Convergence",
+        "description": "Создаёт зону, которая оглушает врагов и даёт щит Ekko при входе.",
+        "img": "https://www.mobafire.com/images/ability/ekko-parallel-convergence.png"
+      },
+      {
+        "name": "E",
+        "title": "Phase Dive",
+        "description": "Совершает рывок, а затем прыгает к врагу с усиленной автоатакой.",
+        "img": "https://www.mobafire.com/images/ability/ekko-phase-dive.png"
+      },
+      {
+        "name": "R",
+        "title": "Chronobreak",
+        "description": "Возвращается во времени, восстанавливая здоровье и нанося урон врагам.",
+        "img": "https://www.mobafire.com/images/ability/ekko-chronobreak.png"
+      }
+    ],
+    "id": "ekko",
+    "role": "Mid Jungle"
+  },
+  {
+    "title": "Evelynn — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/evelynn.png",
+    "description": "Evelynn — убийца, полагающаяся на невидимость и внезапные взрывы урона.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Demon Shade",
+        "description": "Позволяет восстанавливать здоровье вне боя и становится невидимой на 6 уровне.",
+        "img": "https://www.mobafire.com/images/ability/evelynn-demon-shade.png"
+      },
+      {
+        "name": "Q",
+        "title": "Hate Spike",
+        "description": "Выпускает шип, который может использоваться несколько раз подряд.",
+        "img": "https://www.mobafire.com/images/ability/evelynn-hate-spike.png"
+      },
+      {
+        "name": "W",
+        "title": "Allure",
+        "description": "Накладывает чарующую метку, снижая сопротивление или оглушая цель.",
+        "img": "https://www.mobafire.com/images/ability/evelynn-allure.png"
+      },
+      {
+        "name": "E",
+        "title": "Whiplash",
+        "description": "Рывок к врагу с уроном и усилением атаки в демонической форме.",
+        "img": "https://www.mobafire.com/images/ability/evelynn-whiplash.png"
+      },
+      {
+        "name": "R",
+        "title": "Last Caress",
+        "description": "Наносит мощный урон перед собой и отступает назад. Двойной урон врагам с низким здоровьем.",
+        "img": "https://www.mobafire.com/images/ability/evelynn-last-caress.png"
+      }
+    ],
+    "id": "evelynn",
+    "role": "Jungle"
+  },
+  {
+    "title": "Ezreal — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/ezreal.png",
+    "description": "Ezreal — мобильный стрелок, полагающийся на точные скиллшоты и постоянный урон.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Rising Spell Force",
+        "description": "Каждое попавшее умение увеличивает скорость атаки на короткое время.",
+        "img": "https://www.mobafire.com/images/ability/ezreal-rising-spell-force.png"
+      },
+      {
+        "name": "Q",
+        "title": "Mystic Shot",
+        "description": "Выстреливает энергетическим снарядом, нанося урон и уменьшая откаты других умений.",
+        "img": "https://www.mobafire.com/images/ability/ezreal-mystic-shot.png"
+      },
+      {
+        "name": "W",
+        "title": "Essence Flux",
+        "description": "Выстрел, наносящий урон и усиливающий следующее попавшее умение или автоатаку.",
+        "img": "https://www.mobafire.com/images/ability/ezreal-essence-flux.png"
+      },
+      {
+        "name": "E",
+        "title": "Arcane Shift",
+        "description": "Телепортирует на небольшое расстояние и автоматически стреляет ближайшего врага.",
+        "img": "https://www.mobafire.com/images/ability/ezreal-arcane-shift.png"
+      },
+      {
+        "name": "R",
+        "title": "Trueshot Barrage",
+        "description": "Заряжается и выпускает мощный энергетический луч по всей карте.",
+        "img": "https://www.mobafire.com/images/ability/ezreal-trueshot-barrage.png"
+      }
+    ],
+    "id": "ezreal",
+    "role": "Duo"
+  },
+  {
+    "title": "Fiddlesticks — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/fiddlesticks.png",
+    "description": "Fiddlesticks — маг-контроллер, внезапно появляется из тумана войны и сеет хаос.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "A Harmless Scarecrow",
+        "description": "Создаёт пугало-обманку и становится невидимым вне обзора врагов.",
+        "img": "https://www.mobafire.com/images/ability/fiddlesticks-a-harmless-scarecrow.png"
+      },
+      {
+        "name": "Q",
+        "title": "Terrify",
+        "description": "Пугает врагов, заставляя их бежать в страхе, особенно при внезапной атаке.",
+        "img": "https://www.mobafire.com/images/ability/fiddlesticks-terrify.png"
+      },
+      {
+        "name": "W",
+        "title": "Bountiful Harvest",
+        "description": "Поглощает здоровье с нескольких целей, лечась от нанесённого урона.",
+        "img": "https://www.mobafire.com/images/ability/fiddlesticks-bountiful-harvest.png"
+      },
+      {
+        "name": "E",
+        "title": "Reap",
+        "description": "Рубит врагов косой, замедляя и прерывая чтение умений.",
+        "img": "https://www.mobafire.com/images/ability/fiddlesticks-reap.png"
+      },
+      {
+        "name": "R",
+        "title": "Crowstorm",
+        "description": "Телепортируется в цель, создавая бурю ворон с мощным AoE уроном.",
+        "img": "https://www.mobafire.com/images/ability/fiddlesticks-crowstorm.png"
+      }
+    ],
+    "id": "fiddlesticks",
+    "role": "Jungle"
+  },
+  {
+    "title": "Fiora — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/fiora.png",
+    "description": "Fiora — дуэлянт, сражающийся один на один и отражающий атаки врагов.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Duelist's Dance",
+        "description": "Выявляет слабые места врагов и наносит бонусный урон при их атаке.",
+        "img": "https://www.mobafire.com/images/ability/fiora-duelists-dance.png"
+      },
+      {
+        "name": "Q",
+        "title": "Lunge",
+        "description": "Совершает выпад, нанося урон и попадая по слабым местам.",
+        "img": "https://www.mobafire.com/images/ability/fiora-lunge.png"
+      },
+      {
+        "name": "W",
+        "title": "Riposte",
+        "description": "Отражает любое умение и может оглушить врага при правильном тайминге.",
+        "img": "https://www.mobafire.com/images/ability/fiora-riposte.png"
+      },
+      {
+        "name": "E",
+        "title": "Bladework",
+        "description": "Усиливает следующие автоатаки, увеличивая скорость и критический урон.",
+        "img": "https://www.mobafire.com/images/ability/fiora-bladework.png"
+      },
+      {
+        "name": "R",
+        "title": "Grand Challenge",
+        "description": "Отмечает все слабые места врага. При их атаке — вызывает исцеляющее поле.",
+        "img": "https://www.mobafire.com/images/ability/fiora-grand-challenge.png"
+      }
+    ],
+    "id": "fiora",
+    "role": "Solo Jungle"
+  },
+  {
+    "title": "Fizz — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/fizz.png",
+    "description": "Fizz — мобильный убийца-магов, сложноуловимый и смертельно опасный в поздней игре.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Nimble Fighter",
+        "description": "Проходит сквозь врагов и получает меньше урона от автоатак.",
+        "img": "https://www.mobafire.com/images/ability/fizz-nimble-fighter.png"
+      },
+      {
+        "name": "Q",
+        "title": "Urchin Strike",
+        "description": "Рывок сквозь врага с одновременной автоатакой.",
+        "img": "https://www.mobafire.com/images/ability/fizz-urchin-strike.png"
+      },
+      {
+        "name": "W",
+        "title": "Seastone Trident",
+        "description": "Усиливает автоатаки магическим уроном и наносит урон со временем.",
+        "img": "https://www.mobafire.com/images/ability/fizz-seastone-trident.png"
+      },
+      {
+        "name": "E",
+        "title": "Playful / Trickster",
+        "description": "Прыгает на трезубце, избегая урона, затем либо опускается, либо отпрыгивает.",
+        "img": "https://www.mobafire.com/images/ability/fizz-playful-trickster.png"
+      },
+      {
+        "name": "R",
+        "title": "Chum the Waters",
+        "description": "Запускает приманку, которая вызывает акулу и наносит мощный урон.",
+        "img": "https://www.mobafire.com/images/ability/fizz-chum-the-waters.png"
+      }
+    ],
+    "id": "fizz",
+    "role": "Mid Jungle"
+  },
+  {
+    "title": "Galio — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/galio.png",
+    "description": "Galio — маг-танк с мощным контролем и способностью спасать союзников с ульта.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Colossal Smash",
+        "description": "Периодически усиливает следующую автоатаку, нанося урон по области.",
+        "img": "https://www.mobafire.com/images/ability/galio-colossal-smash.png"
+      },
+      {
+        "name": "Q",
+        "title": "Winds of War",
+        "description": "Вызывает два вихря, которые сходятся и создают взрывную зону урона.",
+        "img": "https://www.mobafire.com/images/ability/galio-winds-of-war.png"
+      },
+      {
+        "name": "W",
+        "title": "Shield of Durand",
+        "description": "Заряжает щит, снижает урон и провоцирует врагов при полной зарядке.",
+        "img": "https://www.mobafire.com/images/ability/galio-shield-of-durand.png"
+      },
+      {
+        "name": "E",
+        "title": "Justice Punch",
+        "description": "Совершает рывок с кулаком, сбивая первого врага с ног.",
+        "img": "https://www.mobafire.com/images/ability/galio-justice-punch.png"
+      },
+      {
+        "name": "R",
+        "title": "Hero's Entrance",
+        "description": "Прыгает к союзнику и вызывает удар по области с нокапом.",
+        "img": "https://www.mobafire.com/images/ability/galio-heros-entrance.png"
+      }
+    ],
+    "id": "galio",
+    "role": "Mid Support"
+  },
+  {
+    "title": "Garen — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/garen.png",
+    "description": "Garen — простой и надёжный боец с мощным уроном и устойчивостью в боях.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Perseverance",
+        "description": "Восстанавливает здоровье вне боя.",
+        "img": "https://www.mobafire.com/images/ability/garen-perseverance.png"
+      },
+      {
+        "name": "Q",
+        "title": "Decisive Strike",
+        "description": "Усиливает следующую атаку, нанося урон и обезмолвливая врага.",
+        "img": "https://www.mobafire.com/images/ability/garen-decisive-strike.png"
+      },
+      {
+        "name": "W",
+        "title": "Courage",
+        "description": "Получает пассивную броню и сопротивление магии, активирует щит и устойчивость.",
+        "img": "https://www.mobafire.com/images/ability/garen-courage.png"
+      },
+      {
+        "name": "E",
+        "title": "Judgment",
+        "description": "Вращается, нанося урон всем врагам поблизости.",
+        "img": "https://www.mobafire.com/images/ability/garen-judgment.png"
+      },
+      {
+        "name": "R",
+        "title": "Demacian Justice",
+        "description": "Мгновенно казнит врага с низким уровнем здоровья.",
+        "img": "https://www.mobafire.com/images/ability/garen-demacian-justice.png"
+      }
+    ],
+    "id": "garen",
+    "role": "Solo"
+  },
+  {
+    "title": "Gnar — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/gnar.png",
+    "description": "Gnar — трансформирующийся чемпион с мобильностью и контролем в форме Мега Гнара.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Rage Gene",
+        "description": "Накопление ярости превращает Гнара в Мега Гнара с новыми умениями.",
+        "img": "https://www.mobafire.com/images/ability/gnar-rage-gene.png"
+      },
+      {
+        "name": "Q",
+        "title": "Boomerang Throw / Boulder Toss",
+        "description": "Кидает бумеранг (мини-форма) или валун (мега-форма), замедляя врагов.",
+        "img": "https://www.mobafire.com/images/ability/gnar-boomerang-throw.png"
+      },
+      {
+        "name": "W",
+        "title": "Hyper / Wallop",
+        "description": "Мини: бонус к скорости и урон от атак. Мега: оглушение врагов перед собой.",
+        "img": "https://www.mobafire.com/images/ability/gnar-hyper.png"
+      },
+      {
+        "name": "E",
+        "title": "Hop / Crunch",
+        "description": "Прыжок, в мега-форме приземляется с уроном. Можно прыгнуть на союзников или врагов.",
+        "img": "https://www.mobafire.com/images/ability/gnar-hop.png"
+      },
+      {
+        "name": "R",
+        "title": "GNAR!",
+        "description": "Мега Гнар бросает всех рядом в стену, нанося урон и оглушая.",
+        "img": "https://www.mobafire.com/images/ability/gnar-gnar.png"
+      }
+    ],
+    "id": "gnar",
+    "role": "Solo Jungle"
+  },
+  {
+    "title": "Gragas — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/gragas.png",
+    "description": "Gragas — маг-танк с контролем и инициацией, способный наносить урон и лечиться.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Happy Hour",
+        "description": "После использования умения восстанавливает здоровье.",
+        "img": "https://www.mobafire.com/images/ability/gragas-happy-hour.png"
+      },
+      {
+        "name": "Q",
+        "title": "Barrel Roll",
+        "description": "Кидает бочку, которая замедляет и наносит урон при взрыве.",
+        "img": "https://www.mobafire.com/images/ability/gragas-barrel-roll.png"
+      },
+      {
+        "name": "W",
+        "title": "Drunken Rage",
+        "description": "Пьёт из бочки, снижая урон и усиливая следующую атаку.",
+        "img": "https://www.mobafire.com/images/ability/gragas-drunken-rage.png"
+      },
+      {
+        "name": "E",
+        "title": "Body Slam",
+        "description": "Рывок, сбивающий врагов и оглушающий при столкновении.",
+        "img": "https://www.mobafire.com/images/ability/gragas-body-slam.png"
+      },
+      {
+        "name": "R",
+        "title": "Explosive Cask",
+        "description": "Взрывает бочку, отбрасывая врагов и нанося урон.",
+        "img": "https://www.mobafire.com/images/ability/gragas-explosive-cask.png"
+      }
+    ],
+    "id": "gragas",
+    "role": "Mid Jungle"
+  },
+  {
+    "title": "Graves — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/graves.png",
+    "description": "Graves — стрелок с уникальной механикой дробовика, хорош для леса и дуэлей.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "New Destiny",
+        "description": "Стреляет пулями в конусе. Перезарядка важна для урона.",
+        "img": "https://www.mobafire.com/images/ability/graves-new-destiny.png"
+      },
+      {
+        "name": "Q",
+        "title": "End of the Line",
+        "description": "Выстреливает взрывной заряд, который отскакивает и взрывается.",
+        "img": "https://www.mobafire.com/images/ability/graves-end-of-the-line.png"
+      },
+      {
+        "name": "W",
+        "title": "Smoke Screen",
+        "description": "Создаёт дым, который ослепляет врагов внутри и замедляет.",
+        "img": "https://www.mobafire.com/images/ability/graves-smoke-screen.png"
+      },
+      {
+        "name": "E",
+        "title": "Quickdraw",
+        "description": "Рывок с зарядом брони и перезарядкой. Попадание автоатак уменьшает перезарядку.",
+        "img": "https://www.mobafire.com/images/ability/graves-quickdraw.png"
+      },
+      {
+        "name": "R",
+        "title": "Collateral Damage",
+        "description": "Мощный выстрел, наносящий урон по пути и взрывающийся в конце.",
+        "img": "https://www.mobafire.com/images/ability/graves-collateral-damage.png"
+      }
+    ],
+    "id": "graves",
+    "role": "Jungle"
+  },
+  {
+    "title": "Gwen — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/gwen.png",
+    "description": "Gwen — маг-боец с отличной устойчивостью и уроном в ближнем бою.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "A Thousand Cuts",
+        "description": "Атаки наносят магический урон в зависимости от здоровья цели.",
+        "img": "https://www.mobafire.com/images/ability/gwen-thousand-cuts.png"
+      },
+      {
+        "name": "Q",
+        "title": "Snip Snip!",
+        "description": "Режет перед собой ножницами до 6 раз, нанося урон в конусе.",
+        "img": "https://www.mobafire.com/images/ability/gwen-snip-snip.png"
+      },
+      {
+        "name": "W",
+        "title": "Hallowed Mist",
+        "description": "Создаёт зону, внутри которой становится неуязвима к скиллшотам.",
+        "img": "https://www.mobafire.com/images/ability/gwen-hallowed-mist.png"
+      },
+      {
+        "name": "E",
+        "title": "Skip 'n Slash",
+        "description": "Совершает рывок и усиливает следующие автоатаки.",
+        "img": "https://www.mobafire.com/images/ability/gwen-skip-n-slash.png"
+      },
+      {
+        "name": "R",
+        "title": "Needlework",
+        "description": "Выпускает до 3 серий игл, нанося урон и накладывая эффекты.",
+        "img": "https://www.mobafire.com/images/ability/gwen-needlework.png"
+      }
+    ],
+    "id": "gwen",
+    "role": "Solo Jungle"
+  },
+  {
+    "title": "Hecarim — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/hecarim.png",
+    "description": "Hecarim — мобильный лесник с мощным входом в бой и сильной инициацией.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Warpath",
+        "description": "Скорость передвижения увеличивает урон от атак.",
+        "img": "https://www.mobafire.com/images/ability/hecarim-warpath.png"
+      },
+      {
+        "name": "Q",
+        "title": "Rampage",
+        "description": "Вращает оружием, нанося урон всем врагам рядом.",
+        "img": "https://www.mobafire.com/images/ability/hecarim-rampage.png"
+      },
+      {
+        "name": "W",
+        "title": "Spirit of Dread",
+        "description": "Создаёт ауру, наносящую урон и исцеляющую его за урон врагам.",
+        "img": "https://www.mobafire.com/images/ability/hecarim-spirit-of-dread.png"
+      },
+      {
+        "name": "E",
+        "title": "Devastating Charge",
+        "description": "Увеличивает скорость и толкает врага при следующей атаке.",
+        "img": "https://www.mobafire.com/images/ability/hecarim-devastating-charge.png"
+      },
+      {
+        "name": "R",
+        "title": "Onslaught of Shadows",
+        "description": "Призывает всадников и врывается вперёд, пугая врагов.",
+        "img": "https://www.mobafire.com/images/ability/hecarim-onslaught-of-shadows.png"
+      }
+    ],
+    "id": "hecarim",
+    "role": "Jungle"
+  },
+  {
+    "title": "Heimerdinger — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/heimerdinger.png",
+    "description": "Heimerdinger — маг, контролирующий зону с помощью турелей.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Hextech Affinity",
+        "description": "Увеличивает скорость передвижения рядом с турелями.",
+        "img": "https://www.mobafire.com/images/ability/heimerdinger-hextech-affinity.png"
+      },
+      {
+        "name": "Q",
+        "title": "H-28G Evolution Turret",
+        "description": "Устанавливает турель, автоматически стреляющую по врагам.",
+        "img": "https://www.mobafire.com/images/ability/heimerdinger-h-28g-evolution-turret.png"
+      },
+      {
+        "name": "W",
+        "title": "Hextech Micro-Rockets",
+        "description": "Выпускает ракетный залп, нанося урон по области.",
+        "img": "https://www.mobafire.com/images/ability/heimerdinger-hextech-micro-rockets.png"
+      },
+      {
+        "name": "E",
+        "title": "CH-2 Electron Storm Grenade",
+        "description": "Бросает гранату, оглушающую врагов при прямом попадании.",
+        "img": "https://www.mobafire.com/images/ability/heimerdinger-ch-2-electron-storm-grenade.png"
+      },
+      {
+        "name": "R",
+        "title": "UPGRADE!!!",
+        "description": "Улучшает следующее умение — турель, ракеты или гранату.",
+        "img": "https://www.mobafire.com/images/ability/heimerdinger-upgrade.png"
+      }
+    ],
+    "id": "heimerdinger",
+    "role": "Mid"
+  },
+  {
+    "title": "Irelia — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/irelia.png",
+    "description": "Irelia — мобильный боец, способный быстро расправляться с врагами.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Ionian Fervor",
+        "description": "Автоатаки наносят дополнительный магический урон и дают скорость атаки.",
+        "img": "https://www.mobafire.com/images/ability/irelia-ionian-fervor.png"
+      },
+      {
+        "name": "Q",
+        "title": "Bladesurge",
+        "description": "Прыжок к врагу с уроном. Перезаряжается при убийстве.",
+        "img": "https://www.mobafire.com/images/ability/irelia-bladesurge.png"
+      },
+      {
+        "name": "W",
+        "title": "Defiant Dance",
+        "description": "Заряжает и взмахивает клинками, снижая урон и нанося урон.",
+        "img": "https://www.mobafire.com/images/ability/irelia-defiant-dance.png"
+      },
+      {
+        "name": "E",
+        "title": "Flawless Duet",
+        "description": "Бросает два клинка, оглушающих врагов при столкновении.",
+        "img": "https://www.mobafire.com/images/ability/irelia-flawless-duet.png"
+      },
+      {
+        "name": "R",
+        "title": "Vanguard's Edge",
+        "description": "Запускает клинки, создавая стену, замедляющую и обезоруживающую.",
+        "img": "https://www.mobafire.com/images/ability/irelia-vanguards-edge.png"
+      }
+    ],
+    "id": "irelia",
+    "role": "Solo Mid"
+  },
+  {
+    "title": "Janna — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/janna.png",
+    "description": "Janna — саппорт-защитник с сильным контролем и исцелением.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Tailwind",
+        "description": "Увеличивает скорость передвижения союзников рядом.",
+        "img": "https://www.mobafire.com/images/ability/janna-tailwind.png"
+      },
+      {
+        "name": "Q",
+        "title": "Howling Gale",
+        "description": "Создаёт торнадо, которое отбрасывает и подбрасывает врагов.",
+        "img": "https://www.mobafire.com/images/ability/janna-howling-gale.png"
+      },
+      {
+        "name": "W",
+        "title": "Zephyr",
+        "description": "Наносит урон и замедляет врага. Пассивно увеличивает скорость.",
+        "img": "https://www.mobafire.com/images/ability/janna-zephyr.png"
+      },
+      {
+        "name": "E",
+        "title": "Eye Of The Storm",
+        "description": "Даёт щит союзнику и увеличивает урон по врагам.",
+        "img": "https://www.mobafire.com/images/ability/janna-eye-of-the-storm.png"
+      },
+      {
+        "name": "R",
+        "title": "Monsoon",
+        "description": "Отталкивает врагов и лечит союзников в области действия.",
+        "img": "https://www.mobafire.com/images/ability/janna-monsoon.png"
+      }
+    ],
+    "id": "janna",
+    "role": "Support"
+  },
+  {
+    "title": "Jarvan IV — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/jarvan-iv.png",
+    "description": "Jarvan IV — инициатор и танк, отлично подходящий для леса.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Martial Cadence",
+        "description": "Первая автоатака по новому врагу наносит дополнительный урон.",
+        "img": "https://www.mobafire.com/images/ability/jarvan-iv-martial-cadence.png"
+      },
+      {
+        "name": "Q",
+        "title": "Dragon Strike",
+        "description": "Прокалывает врагов и снижает броню. Может соединяться с флагом.",
+        "img": "https://www.mobafire.com/images/ability/jarvan-iv-dragon-strike.png"
+      },
+      {
+        "name": "W",
+        "title": "Golden Aegis",
+        "description": "Замедляет врагов и создаёт щит, усиливаемый количеством врагов рядом.",
+        "img": "https://www.mobafire.com/images/ability/jarvan-iv-golden-aegis.png"
+      },
+      {
+        "name": "E",
+        "title": "Demacian Standard",
+        "description": "Устанавливает флаг, дающий бонусы и используемый для комбо с Q.",
+        "img": "https://www.mobafire.com/images/ability/jarvan-iv-demacian-standard.png"
+      },
+      {
+        "name": "R",
+        "title": "Cataclysm",
+        "description": "Прыгает к врагу, создавая арену, изолирующую его от команды.",
+        "img": "https://www.mobafire.com/images/ability/jarvan-iv-cataclysm.png"
+      }
+    ],
+    "id": "jarvan",
+    "role": "Jungle"
+  },
+  {
+    "title": "Jax — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/jax.png",
+    "description": "Jax — дуэлянт ближнего боя, отлично масштабирующийся с предметами.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Relentless Assault",
+        "description": "Даёт скорость атаки при каждой автоатаке.",
+        "img": "https://www.mobafire.com/images/ability/jax-relentless-assault.png"
+      },
+      {
+        "name": "Q",
+        "title": "Leap Strike",
+        "description": "Прыгает к цели, нанося физический урон.",
+        "img": "https://www.mobafire.com/images/ability/jax-leap-strike.png"
+      },
+      {
+        "name": "W",
+        "title": "Empower",
+        "description": "Усиливает следующую атаку, нанося дополнительный магический урон.",
+        "img": "https://www.mobafire.com/images/ability/jax-empower.png"
+      },
+      {
+        "name": "E",
+        "title": "Counter Strike",
+        "description": "Уклоняется от атак и затем оглушает врагов поблизости.",
+        "img": "https://www.mobafire.com/images/ability/jax-counter-strike.png"
+      },
+      {
+        "name": "R",
+        "title": "Grandmaster's Might",
+        "description": "Пассивно: каждая третья атака наносит доп. урон. Активно: даёт сопротивление урону.",
+        "img": "https://www.mobafire.com/images/ability/jax-grandmasters-might.png"
+      }
+    ],
+    "id": "jax",
+    "role": "Solo"
+  },
+  {
+    "title": "Jayce — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/jayce.png",
+    "description": "Jayce — универсальный боец, переключающийся между дальним и ближним боем.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Hextech Capacitor",
+        "description": "Даёт скорость передвижения и возможность проходить сквозь юнитов при смене формы.",
+        "img": "https://www.mobafire.com/images/ability/jayce-hextech-capacitor.png"
+      },
+      {
+        "name": "Q (Канон)",
+        "title": "Shock Blast",
+        "description": "Стреляет сферой, взрывающейся при столкновении.",
+        "img": "https://www.mobafire.com/images/ability/jayce-shock-blast.png"
+      },
+      {
+        "name": "Q (Молот)",
+        "title": "To the Skies!",
+        "description": "Прыжок к врагу и удар молотом, замедляющий его.",
+        "img": "https://www.mobafire.com/images/ability/jayce-to-the-skies.png"
+      },
+      {
+        "name": "W",
+        "title": "Hyper Charge / Lightning Field",
+        "description": "Канон: усиливает автоатаки. Молот: поле урона вокруг Джейса.",
+        "img": "https://www.mobafire.com/images/ability/jayce-lightning-field.png"
+      },
+      {
+        "name": "E",
+        "title": "Acceleration Gate / Thundering Blow",
+        "description": "Канон: усиливает Q и даёт скорость. Молот: отбрасывает врага.",
+        "img": "https://www.mobafire.com/images/ability/jayce-thundering-blow.png"
+      },
+      {
+        "name": "R",
+        "title": "Transform: Mercury Cannon / Mercury Hammer",
+        "description": "Меняет стиль боя: дальний (пушка) или ближний (молот).",
+        "img": "https://www.mobafire.com/images/ability/jayce-mercury-cannon.png"
+      }
+    ],
+    "id": "jayce",
+    "role": "Solo Mid Jungle"
+  },
+  {
+    "title": "Jhin — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/jhin.png",
+    "description": "Jhin — АДК с высокой точностью, критами и контролем зоны.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Whisper",
+        "description": "4-й выстрел всегда критует и наносит бонусный урон.",
+        "img": "https://www.mobafire.com/images/ability/jhin-whisper.png"
+      },
+      {
+        "name": "Q",
+        "title": "Dancing Grenade",
+        "description": "Бросает гранату, отскакивающую до 4 раз по врагам.",
+        "img": "https://www.mobafire.com/images/ability/jhin-dancing-grenade.png"
+      },
+      {
+        "name": "W",
+        "title": "Deadly Flourish",
+        "description": "Длинный выстрел, обездвиживающий ранее отмеченных врагов.",
+        "img": "https://www.mobafire.com/images/ability/jhin-deadly-flourish.png"
+      },
+      {
+        "name": "E",
+        "title": "Captive Audience",
+        "description": "Ловушка, замедляющая и взрывающая врагов.",
+        "img": "https://www.mobafire.com/images/ability/jhin-captive-audience.png"
+      },
+      {
+        "name": "R",
+        "title": "Curtain Call",
+        "description": "Открывает огонь из ульты — 4 выстрела с огромной дистанции.",
+        "img": "https://www.mobafire.com/images/ability/jhin-curtain-call.png"
+      }
+    ],
+    "id": "jhin",
+    "role": "Duo"
+  },
+  {
+    "title": "Jinx — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/jinx.png",
+    "description": "Jinx — hyper‑carry, разгоняющийся после убийств и ломающий башни за секунды.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Get Excited!",
+        "description": "При убийстве чемпионов, эпических/строений получает огромную скорость и ускорение атаки.",
+        "img": "https://www.mobafire.com/images/ability/jinx-get-excited.png"
+      },
+      {
+        "name": "Q",
+        "title": "Switcheroo!",
+        "description": "Переключается между мини‑ганом (скорость) и ракетницей (AOE + дальность).",
+        "img": "https://www.mobafire.com/images/ability/jinx-switcheroo.png"
+      },
+      {
+        "name": "W",
+        "title": "Zap!",
+        "description": "Дальний луч, наносящий урон и замедляющий первую цель.",
+        "img": "https://www.mobafire.com/images/ability/jinx-zap.png"
+      },
+      {
+        "name": "E",
+        "title": "Flame Chompers!",
+        "description": "Бросает гранаты‑кхомперы, удерживающие врагов на месте и наносящие магический урон.",
+        "img": "https://www.mobafire.com/images/ability/jinx-flame-chompers.png"
+      },
+      {
+        "name": "R",
+        "title": "Super Mega Death Rocket!",
+        "description": "Глобальная ракета: больше урон врагам с низким здоровьем, взрыв AOE.",
+        "img": "https://www.mobafire.com/images/ability/jinx-super-mega-death-rocket.png"
+      }
+    ],
+    "id": "jinx",
+    "role": "Duo"
+  },
+  {
+    "title": "Kai'Sa — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/kaisa.png",
+    "description": "Kai'Sa — мобильный ADC‑ассасин: эволюционирует умения в зависимости от предметов.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Second Skin",
+        "description": "Автоатаки и умения накладывают стаки, усиливающие урон. Модифицируется предметами.",
+        "img": "https://www.mobafire.com/images/ability/kaisa-second-skin.png"
+      },
+      {
+        "name": "Q",
+        "title": "Icathian Rain",
+        "description": "Выпускает стаю снарядов по ближайшим врагам. Эволюция к больше снарядов.",
+        "img": "https://www.mobafire.com/images/ability/kaisa-icathian-rain.png"
+      },
+      {
+        "name": "W",
+        "title": "Void Seeker",
+        "description": "Дальний выстрел, накладывающий стаки пассивки и показывающий цель. Эволюция — уменьшает откат при попадании.",
+        "img": "https://www.mobafire.com/images/ability/kaisa-void-seeker.png"
+      },
+      {
+        "name": "E",
+        "title": "Supercharge",
+        "description": "Заряжается, получая скорость, затем ускорение атаки и невидимость при эволюции.",
+        "img": "https://www.mobafire.com/images/ability/kaisa-supercharge.png"
+      },
+      {
+        "name": "R",
+        "title": "Killer Instinct",
+        "description": "Рывок к отмеченной цели, получая щит и позиционирование.",
+        "img": "https://www.mobafire.com/images/ability/kaisa-killer-instinct.png"
+      }
+    ],
+    "id": "kaisa",
+    "role": "Duo"
+  },
+  {
+    "title": "Kalista — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/kalista.png",
+    "description": "Kalista — мобильный ADC с прыжками после каждой атаки и сильнейшим контролем драконов/башен благодаря пассивке.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Martial Poise",
+        "description": "После каждой атаки прыгает в направлении движения.",
+        "img": "https://www.mobafire.com/images/ability/kalista-martial-poise.png"
+      },
+      {
+        "name": "Q",
+        "title": "Pierce",
+        "description": "Копьё пронзает цель и переносит стаки W‑пассивки.",
+        "img": "https://www.mobafire.com/images/ability/kalista-pierce.png"
+      },
+      {
+        "name": "W",
+        "title": "Sentinel",
+        "description": "Договор Духа‑клятвы + пассивное нанесение доп. урона по одной цели.",
+        "img": "https://www.mobafire.com/images/ability/kalista-sentinel.png"
+      },
+      {
+        "name": "E",
+        "title": "Rend",
+        "description": "Выдёргивает копья, нанося урон и замедляя. Убивает миньонов → откат сбрасывается.",
+        "img": "https://www.mobafire.com/images/ability/kalista-rend.png"
+      },
+      {
+        "name": "R",
+        "title": "Fate's Call",
+        "description": "Притягивает союзника‑клятвенного, позволяя ему влететь и бросить врагов вверх.",
+        "img": "https://www.mobafire.com/images/ability/kalista-fates-call.png"
+      }
+    ],
+    "id": "kalista",
+    "role": "Duo"
+  },
+  {
+    "title": "Karma — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/karma.png",
+    "description": "Karma — саппорт‑маг с сильными щитами и приличным уроном при грамотном использовании Мантра‑R.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Gathering Fire",
+        "description": "Уменьшает перезарядку R при нанесении урона/лечении.",
+        "img": "https://www.mobafire.com/images/ability/karma-gathering-fire.png"
+      },
+      {
+        "name": "Q",
+        "title": "Inner Flame",
+        "description": "Шар урона + замедление; Мантра‑Q — увеличенный взрыв.",
+        "img": "https://www.mobafire.com/images/ability/karma-inner-flame.png"
+      },
+      {
+        "name": "W",
+        "title": "Focused Resolve",
+        "description": "Стан через tether; Мантра‑W лечит Карму.",
+        "img": "https://www.mobafire.com/images/ability/karma-focused-resolve.png"
+      },
+      {
+        "name": "E",
+        "title": "Inspire",
+        "description": "Щит + скорость; Мантра‑E — AOE‑щит команде.",
+        "img": "https://www.mobafire.com/images/ability/karma-inspire.png"
+      },
+      {
+        "name": "R",
+        "title": "Mantra",
+        "description": "Улучшает следующее умение (Q/W/E).",
+        "img": "https://www.mobafire.com/images/ability/karma-mantra.png"
+      }
+    ],
+    "id": "karma",
+    "role": "Mid Support"
+  },
+  {
+    "title": "Kassadin — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/kassadin.png",
+    "description": "Kassadin — антимаг‑ассасин, силён после 16 уровня с бешеной мобильностью.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Void Stone",
+        "description": "Снижает магический урон и проходит сквозь юнитов.",
+        "img": "https://www.mobafire.com/images/ability/kassadin-void-stone.png"
+      },
+      {
+        "name": "Q",
+        "title": "Null Sphere",
+        "description": "Снаряд, наносящий урон и дающий щит от магии.",
+        "img": "https://www.mobafire.com/images/ability/kassadin-null-sphere.png"
+      },
+      {
+        "name": "W",
+        "title": "Nether Blade",
+        "description": "Усиливает автоатаку, возвращая ману.",
+        "img": "https://www.mobafire.com/images/ability/kassadin-nether-blade.png"
+      },
+      {
+        "name": "E",
+        "title": "Force Pulse",
+        "description": "Конус урона и замедления; заряжается от умений вокруг.",
+        "img": "https://www.mobafire.com/images/ability/kassadin-force-pulse.png"
+      },
+      {
+        "name": "R",
+        "title": "Riftwalk",
+        "description": "Мгновенный блинк + AOE‑урон; стакуется, увеличивая манакост и урон.",
+        "img": "https://www.mobafire.com/images/ability/kassadin-riftwalk.png"
+      }
+    ],
+    "id": "kassadin",
+    "role": "Mid"
+  },
+  {
+    "title": "Katarina — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/katarina.png",
+    "description": "Katarina — snowball‑ассасин с ресетом умений после убийства.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Voracity",
+        "description": "Убийства/ассисты сокращают откаты, кинжалы на земле поднимаются для AOE‑урона.",
+        "img": "https://www.mobafire.com/images/ability/katarina-voracity.png"
+      },
+      {
+        "name": "Q",
+        "title": "Bouncing Blade",
+        "description": "Метает клинок, который отскакивает и остаётся на земле.",
+        "img": "https://www.mobafire.com/images/ability/katarina-bouncing-blade.png"
+      },
+      {
+        "name": "W",
+        "title": "Preparation",
+        "description": "Рывок + кинжал позади себя.",
+        "img": "https://www.mobafire.com/images/ability/katarina-preparation.png"
+      },
+      {
+        "name": "E",
+        "title": "Shunpo",
+        "description": "Прыжок на кинжал/юнита, нанося урон.",
+        "img": "https://www.mobafire.com/images/ability/katarina-shunpo.png"
+      },
+      {
+        "name": "R",
+        "title": "Death Lotus",
+        "description": "Вращается, выпуская кинжалы с огромным DPS по 3 целям.",
+        "img": "https://www.mobafire.com/images/ability/katarina-death-lotus.png"
+      }
+    ],
+    "id": "katarina",
+    "role": "Mid"
+  },
+  {
+    "title": "Kayle — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/kayle.png",
+    "description": "Kayle — скейлящийся боец/маг, достигающий силы к 16 уровню и становящийся ranged‑carry.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Divine Ascent",
+        "description": "Уровни силы на 6/11/16: дальняя атака, AOE и огненные волны.",
+        "img": "https://www.mobafire.com/images/ability/kayle-divine-ascent.png"
+      },
+      {
+        "name": "Q",
+        "title": "Radiant Blast",
+        "description": "Луч, снижающий броню и маг. сопротивление.",
+        "img": "https://www.mobafire.com/images/ability/kayle-radiant-blast.png"
+      },
+      {
+        "name": "W",
+        "title": "Celestial Blessing",
+        "description": "Лечение + скорость себе и союзнику.",
+        "img": "https://www.mobafire.com/images/ability/kayle-celestial-blessing.png"
+      },
+      {
+        "name": "E",
+        "title": "Starfire Spellblade",
+        "description": "Усиливает автоатаку дальним выстрелом.",
+        "img": "https://www.mobafire.com/images/ability/kayle-starfire-spellblade.png"
+      },
+      {
+        "name": "R",
+        "title": "Divine Judgment",
+        "description": "Делает цель неуязвимой и вызывает мечи AOE.",
+        "img": "https://www.mobafire.com/images/ability/kayle-divine-judgment.png"
+      }
+    ],
+    "id": "kayle",
+    "role": "Solo Mid Jungle"
+  },
+  {
+    "title": "Kayn — Гайд А",
+    "img": "https://www.mobafire.com/images/champion/square/kayn.png",
+    "description": "Kayn — гибрид лесник, выбирающий форму: красный Rhaast (бой) или синий Shadow Assassin.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "The Darkin Scythe",
+        "description": "Накопление сфер, выбор формы — Rhaast или Assassin.",
+        "img": "https://www.mobafire.com/images/ability/kayn-the-darkin-scythe.png"
+      },
+      {
+        "name": "Q",
+        "title": "Reaping Slash",
+        "description": "Кувырок + режущий удар.",
+        "img": "https://www.mobafire.com/images/ability/kayn-reaping-slash.png"
+      },
+      {
+        "name": "W",
+        "title": "Blade's Reach",
+        "description": "Клинок по линии, замедляет/задержка.",
+        "img": "https://www.mobafire.com/images/ability/kayn-blades-reach.png"
+      },
+      {
+        "name": "E",
+        "title": "Shadow Step",
+        "description": "Прохождение сквозь стены с лечением.",
+        "img": "https://www.mobafire.com/images/ability/kayn-shadow-step.png"
+      },
+      {
+        "name": "R",
+        "title": "Umbral Trespass",
+        "description": "Входит в тело врага и вырывается, нанося урон.",
+        "img": "https://www.mobafire.com/images/ability/kayn-umbral-trespass.png"
+      }
+    ],
+    "id": "kayn",
+    "role": "Jungle"
+  },
+  {
+    "title": "Kennen — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/kennen.png",
+    "description": "Kennen — маг‑брюзер, вносит AOE‑стан в командных боях.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Mark of the Storm",
+        "description": "3 стека оглушают врага.",
+        "img": "https://www.mobafire.com/images/ability/kennen-mark-of-the-storm.png"
+      },
+      {
+        "name": "Q",
+        "title": "Thundering Shuriken",
+        "description": "Шурикен по прямой, накладывает пассивку.",
+        "img": "https://www.mobafire.com/images/ability/kennen-thundering-shuriken.png"
+      },
+      {
+        "name": "W",
+        "title": "Electrical Surge",
+        "description": "Пассивно — каждые 5‑я атака маг‑урон. Активно — цепная молния по отмеченным врагам.",
+        "img": "https://www.mobafire.com/images/ability/kennen-electrical-surge.png"
+      },
+      {
+        "name": "E",
+        "title": "Lightning Rush",
+        "description": "Прыжок‑сфера, проходит сквозь врагов, даёт скорость.",
+        "img": "https://www.mobafire.com/images/ability/kennen-lightning-rush.png"
+      },
+      {
+        "name": "R",
+        "title": "Slicing Maelstrom",
+        "description": "AOE буря, многократные удары, накладывает пассивку.",
+        "img": "https://www.mobafire.com/images/ability/kennen-slicing-maelstrom.png"
+      }
+    ],
+    "id": "kennen",
+    "role": "Solo Mid"
+  },
+  {
+    "title": "Kha'Zix — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/khazix.png",
+    "description": "Kha'Zix — убийца‑эволюция, сильнее против одиночных целей.",
+    "skills": [
+      {
+        "name": "Пассивное умение",
+        "title": "Unseen Threat",
+        "description": "Из невидимости/в кустах следующая атака замедляет и наносит маг‑урон.",
+        "img": "https://www.mobafire.com/images/ability/khazix-unseen-threat.png"
+      },
+      {
+        "name": "Q",
+        "title": "Taste Their Fear",
+        "description": "Урон в одну цель, больше урон по изолированным. Эволюция — ещё сильнее.",
+        "img": "https://www.mobafire.com/images/ability/khazix-taste-their-fear.png"
+      },
+      {
+        "name": "W",
+        "title": "Void Spike",
+        "description": "Шипы AOE + лечение. Эволюция — 3 шипа и замедление.",
+        "img": "https://www.mobafire.com/images/ability/khazix-void-spike.png"
+      },
+      {
+        "name": "E",
+        "title": "Leap",
+        "description": "Прыжок, нанося урон. Эволюция — откат при убийстве.",
+        "img": "https://www.mobafire.com/images/ability/khazix-leap.png"
+      },
+      {
+        "name": "R",
+        "title": "Void Assault",
+        "description": "Невидимость 2‑3 раза, снижает урон, усиливает пассивку.",
+        "img": "https://www.mobafire.com/images/ability/khazix-void-assault.png"
+      }
+    ],
+    "id": "khazix",
+    "role": "Jungle"
+  },
+  {
+    "title": "Kindred — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/kindred.png",
+    "description": "Kindred — стрелок‑лесник, усиливающийся метками и спасающий команду ультой.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Mark of the Kindred",
+        "description": "Метки на монстрах/чемпионах усиливают атаки.",
+        "img": "https://www.mobafire.com/images/ability/kindred-mark-of-the-kindred.png"
+      },
+      {
+        "name": "Q",
+        "title": "Dance of Arrows",
+        "description": "Прыжок‑стрельба по трём врагам, КД снижен в W.",
+        "img": "https://www.mobafire.com/images/ability/kindred-dance-of-arrows.png"
+      },
+      {
+        "name": "W",
+        "title": "Wolf's Frenzy",
+        "description": "Волк бьёт в зоне, ускоряет Q.",
+        "img": "https://www.mobafire.com/images/ability/kindred-wolfs-frenzy.png"
+      },
+      {
+        "name": "E",
+        "title": "Mounting Dread",
+        "description": "Замедление + крит. урон овцы и волка.",
+        "img": "https://www.mobafire.com/images/ability/kindred-mounting-dread.png"
+      },
+      {
+        "name": "R",
+        "title": "Lamb's Respite",
+        "description": "Зона, где не умирают. В конце лечит.",
+        "img": "https://www.mobafire.com/images/ability/kindred-lambs-respite.png"
+      }
+    ],
+    "id": "kindred",
+    "role": "Jungle"
+  },
+  {
+    "title": "Lee Sin — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/lee-sin.png",
+    "description": "Lee Sin — мобильный инициатор‑лесник с большим потенциалом механики «инсект».",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Flurry",
+        "description": "Каждая способность даёт скорость атаки и возврат энергии.",
+        "img": "https://www.mobafire.com/images/ability/lee-sin-flurry.png"
+      },
+      {
+        "name": "Q",
+        "title": "Sonic Wave / Resonating Strike",
+        "description": "Кьюшка‑тревёл. Second cast прыжок к цели.",
+        "img": "https://www.mobafire.com/images/ability/lee-sin-sonic-wave.png"
+      },
+      {
+        "name": "W",
+        "title": "Safeguard / Iron Will",
+        "description": "Щит к союзнику/варду + вампиризм.",
+        "img": "https://www.mobafire.com/images/ability/lee-sin-safeguard.png"
+      },
+      {
+        "name": "E",
+        "title": "Tempest / Cripple",
+        "description": "AOE урон + замедление.",
+        "img": "https://www.mobafire.com/images/ability/lee-sin-tempest.png"
+      },
+      {
+        "name": "R",
+        "title": "Dragon's Rage",
+        "description": "Удар ногой, отбрасывающий и наносящий AOE урон.",
+        "img": "https://www.mobafire.com/images/ability/lee-sin-dragons-rage.png"
+      }
+    ],
+    "id": "leesin",
+    "role": "Jungle"
+  },
+  {
+    "title": "Leona — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/leona.png",
+    "description": "Leona — танк‑саппорт с цепным контролем и высоким сопротивлением.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Sunlight",
+        "description": "Союзники подрывают метку, нанося доп. маг‑урон.",
+        "img": "https://www.mobafire.com/images/ability/leona-sunlight.png"
+      },
+      {
+        "name": "Q",
+        "title": "Shield of Daybreak",
+        "description": "Усиливает следующую автоатаку, оглушая.",
+        "img": "https://www.mobafire.com/images/ability/leona-shield-of-daybreak.png"
+      },
+      {
+        "name": "W",
+        "title": "Eclipse",
+        "description": "Щит → AOE взрыв, даёт броню и MR.",
+        "img": "https://www.mobafire.com/images/ability/leona-eclipse.png"
+      },
+      {
+        "name": "E",
+        "title": "Zenith Blade",
+        "description": "Протягивается к врагу, притягиваясь к последнему.",
+        "img": "https://www.mobafire.com/images/ability/leona-zenith-blade.png"
+      },
+      {
+        "name": "R",
+        "title": "Solar Flare",
+        "description": "Метеор: центр — стан, края — замедление.",
+        "img": "https://www.mobafire.com/images/ability/leona-solar-flare.png"
+      }
+    ],
+    "id": "leona",
+    "role": "Support"
+  },
+  {
+    "title": "Lillia — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/lillia.png",
+    "description": "Lillia — AP‑лесник‑кайтер с массовым усыплением.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Dream-Laden Bough",
+        "description": "Умения накладывают DOT маг‑урон.",
+        "img": "https://www.mobafire.com/images/ability/lillia-dream-laden-bough.png"
+      },
+      {
+        "name": "Q",
+        "title": "Blooming Blows",
+        "description": "Взмах посохом, край наносит крит и даёт скорость.",
+        "img": "https://www.mobafire.com/images/ability/lillia-blooming-blows.png"
+      },
+      {
+        "name": "W",
+        "title": "Watch Out! Eep!",
+        "description": "Удар по земле, центр наносит большой урон.",
+        "img": "https://www.mobafire.com/images/ability/lillia-watch-out-eep.png"
+      },
+      {
+        "name": "E",
+        "title": "Swirlseed",
+        "description": "Катит семя, замедляя и накладывая пассивку.",
+        "img": "https://www.mobafire.com/images/ability/lillia-swirlseed.png"
+      },
+      {
+        "name": "R",
+        "title": "Lilting Lullaby",
+        "description": "Усыпляет всех с меткой пассивки, затем наносит урон.",
+        "img": "https://www.mobafire.com/images/ability/lillia-lilting-lullaby.png"
+      }
+    ],
+    "id": "lillia",
+    "role": "Jungle"
+  },
+  {
+    "title": "Lissandra — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/lissandra.png",
+    "description": "Lissandra — контроль‑маг с врывом, заморозкой и AOE взрывом трупов.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Iceborn Subjugation",
+        "description": "Убитые чемпы становятся замораживающей тенью.",
+        "img": "https://www.mobafire.com/images/ability/lissandra-iceborn-subjugation.png"
+      },
+      {
+        "name": "Q",
+        "title": "Ice Shard",
+        "description": "Ломает лёд, пронзая вторым лучом.",
+        "img": "https://www.mobafire.com/images/ability/lissandra-ice-shard.png"
+      },
+      {
+        "name": "W",
+        "title": "Ring of Frost",
+        "description": "AOE корни вокруг себя.",
+        "img": "https://www.mobafire.com/images/ability/lissandra-ring-of-frost.png"
+      },
+      {
+        "name": "E",
+        "title": "Glacial Path",
+        "description": "Ледяной рывок‑проекция, можно рекастом телепортироваться.",
+        "img": "https://www.mobafire.com/images/ability/lissandra-glacial-path.png"
+      },
+      {
+        "name": "R",
+        "title": "Frozen Tomb",
+        "description": "Станит цель (или себя) + AOE взрыв льда.",
+        "img": "https://www.mobafire.com/images/ability/lissandra-frozen-tomb.png"
+      }
+    ],
+    "id": "lissandra",
+    "role": "Mid"
+  },
+  {
+    "title": "Lucian — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/lucian.png",
+    "description": "Lucian — мобильный стрелок с двойными автоатаками и бурст‑комбо.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Lightslinger",
+        "description": "Умения заряжают следующую автоатаку 2 выстрелами.",
+        "img": "https://www.mobafire.com/images/ability/lucian-lightslinger.png"
+      },
+      {
+        "name": "Q",
+        "title": "Piercing Light",
+        "description": "Лазер сквозь цель.",
+        "img": "https://www.mobafire.com/images/ability/lucian-piercing-light.png"
+      },
+      {
+        "name": "W",
+        "title": "Ardent Blaze",
+        "description": "Снаряд‑маркер, попадания дают скорость.",
+        "img": "https://www.mobafire.com/images/ability/lucian-ardent-blaze.png"
+      },
+      {
+        "name": "E",
+        "title": "Relentless Pursuit",
+        "description": "Короткий рывок, КД снижают автоатаки.",
+        "img": "https://www.mobafire.com/images/ability/lucian-relentless-pursuit.png"
+      },
+      {
+        "name": "R",
+        "title": "The Culling",
+        "description": "Стреляет шквалом пуль, двигаясь во время кастa.",
+        "img": "https://www.mobafire.com/images/ability/lucian-the-culling.png"
+      }
+    ],
+    "id": "lucian",
+    "role": "Duo Mid"
+  },
+  {
+    "title": "Lulu — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/lulu.png",
+    "description": "Lulu — энчант‑саппорт с сильным бафом союзников и полиморфом врагов.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Pix, Faerie Companion",
+        "description": "Фея стреляет авто‑бластами вместе с Лулу или союзником.",
+        "img": "https://www.mobafire.com/images/ability/lulu-pix.png"
+      },
+      {
+        "name": "Q",
+        "title": "Glitterlance",
+        "description": "Два луча замедления от Лулу и Пикс.",
+        "img": "https://www.mobafire.com/images/ability/lulu-glitterlance.png"
+      },
+      {
+        "name": "W",
+        "title": "Whimsy",
+        "description": "Полиморф врага или ускорение/силу атаки союзнику.",
+        "img": "https://www.mobafire.com/images/ability/lulu-whimsy.png"
+      },
+      {
+        "name": "E",
+        "title": "Help, Pix!",
+        "description": "Щит союзнику или урон + раскрытие врагу.",
+        "img": "https://www.mobafire.com/images/ability/lulu-help-pix.png"
+      },
+      {
+        "name": "R",
+        "title": "Wild Growth",
+        "description": "Увеличивает союзника, отбрасывая врагов и давая замедляющую ауру.",
+        "img": "https://www.mobafire.com/images/ability/lulu-wild-growth.png"
+      }
+    ],
+    "id": "lulu",
+    "role": "Support"
+  },
+  {
+    "title": "Lux — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/lux.png",
+    "description": "Lux — дальний артиллерист с мощным контролем и глобальной ультой‑лазером.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Illumination",
+        "description": "Умения отмечают цель, автоатака подрывает метку.",
+        "img": "https://www.mobafire.com/images/ability/lux-illumination.png"
+      },
+      {
+        "name": "Q",
+        "title": "Light Binding",
+        "description": "Стан 2 целей на линии.",
+        "img": "https://www.mobafire.com/images/ability/lux-light-binding.png"
+      },
+      {
+        "name": "W",
+        "title": "Prismatic Barrier",
+        "description": "Бумеранг‑щит союзникам туда‑обратно.",
+        "img": "https://www.mobafire.com/images/ability/lux-prismatic-barrier.png"
+      },
+      {
+        "name": "E",
+        "title": "Lucent Singularity",
+        "description": "Зона slow + взрыв урона, раскрывает местность.",
+        "img": "https://www.mobafire.com/images/ability/lux-lucent-singularity.png"
+      },
+      {
+        "name": "R",
+        "title": "Final Spark",
+        "description": "Дальний лазер, сбрасывает пассивку.",
+        "img": "https://www.mobafire.com/images/ability/lux-final-spark.png"
+      }
+    ],
+    "id": "lux",
+    "role": "Support Mid"
+  },
+  {
+    "title": "Malphite — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/malphite.png",
+    "description": "Malphite — танк‑инициатор с одним из сильнейших AOE входов в игре.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Granite Shield",
+        "description": "Щит от % максимального HP, восстанавливается вне боя.",
+        "img": "https://www.mobafire.com/images/ability/malphite-granite-shield.png"
+      },
+      {
+        "name": "Q",
+        "title": "Seismic Shard",
+        "description": "Кража скорости + урон скейлится от брони.",
+        "img": "https://www.mobafire.com/images/ability/malphite-seismic-shard.png"
+      },
+      {
+        "name": "W",
+        "title": "Thunderclap",
+        "description": "Бонус брони + AOE‑клин.",
+        "img": "https://www.mobafire.com/images/ability/malphite-thunderclap.png"
+      },
+      {
+        "name": "E",
+        "title": "Ground Slam",
+        "description": "AOE урон и замедление атак.",
+        "img": "https://www.mobafire.com/images/ability/malphite-ground-slam.png"
+      },
+      {
+        "name": "R",
+        "title": "Unstoppable Force",
+        "description": "Неостанавливаемый прыжок‑нокаап + AOE урон.",
+        "img": "https://www.mobafire.com/images/ability/malphite-unstoppable-force.png"
+      }
+    ],
+    "id": "malphite",
+    "role": "Solo"
+  },
+  {
+    "title": "Maokai — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/maokai.png",
+    "description": "Maokai — танк‑инициатор: саженцы разведки, точечный корень и AOE‑ульт.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Sap Magic",
+        "description": "Автоатака — хил после кол‑ва умений/ударов.",
+        "img": "https://www.mobafire.com/images/ability/maokai-sap-magic.png"
+      },
+      {
+        "name": "Q",
+        "title": "Bramble Smash",
+        "description": "Удар по конусу, отбрасывание и замедление.",
+        "img": "https://www.mobafire.com/images/ability/maokai-bramble-smash.png"
+      },
+      {
+        "name": "W",
+        "title": "Twisted Advance",
+        "description": "Цельноконтактный рывок‑корень.",
+        "img": "https://www.mobafire.com/images/ability/maokai-twisted-advance.png"
+      },
+      {
+        "name": "E",
+        "title": "Sapling Toss",
+        "description": "Бросает саженец‑бомбу; в кустах — усиление.",
+        "img": "https://www.mobafire.com/images/ability/maokai-sapling-toss.png"
+      },
+      {
+        "name": "R",
+        "title": "Nature's Grasp",
+        "description": "Широкая волна корней вперёд, замедляет/корень.",
+        "img": "https://www.mobafire.com/images/ability/maokai-natures-grasp.png"
+      }
+    ],
+    "id": "maokai",
+    "role": "Jungle Support Solo"
+  },
+  {
+    "title": "Master Yi — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/master-yi.png",
+    "description": "Master Yi — фарм‑лесник и duelist, snowball’ится через reset’ы Q и ульт.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Double Strike",
+        "description": "Каждая 3‑я автоатака — двойной удар.",
+        "img": "https://www.mobafire.com/images/ability/master-yi-double-strike.png"
+      },
+      {
+        "name": "Q",
+        "title": "Alpha Strike",
+        "description": "Клинок‑скачок между врагами, неуязвимость.",
+        "img": "https://www.mobafire.com/images/ability/master-yi-alpha-strike.png"
+      },
+      {
+        "name": "W",
+        "title": "Meditate",
+        "description": "Канал лечит + снижает урон.",
+        "img": "https://www.mobafire.com/images/ability/master-yi-meditate.png"
+      },
+      {
+        "name": "E",
+        "title": "Wuju Style",
+        "description": "В true‑урон пассивно; актив — доп. true‑урон.",
+        "img": "https://www.mobafire.com/images/ability/master-yi-wuju-style.png"
+      },
+      {
+        "name": "R",
+        "title": "Highlander",
+        "description": "Скорость/иммун к замедлению; убийства сбрасывают КД.",
+        "img": "https://www.mobafire.com/images/ability/master-yi-highlander.png"
+      }
+    ],
+    "id": "masteryi",
+    "role": "Jungle"
+  },
+  {
+    "title": "Milio — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/milio.png",
+    "description": "Milio — энчант‑саппорт: дальний щит‑отхил и массовое снятие контроля ультой.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Fired Up!",
+        "description": "Щиты/хилы бафают автоатаки союзника доп. уроном.",
+        "img": "https://www.mobafire.com/images/ability/milio-fired-up.png"
+      },
+      {
+        "name": "Q",
+        "title": "Ultra Mega Fire Kick",
+        "description": "Пинок — снаряд, отбрасывает и подкидывает врага.",
+        "img": "https://www.mobafire.com/images/ability/milio-ultra-mega-fire-kick.png"
+      },
+      {
+        "name": "W",
+        "title": "Cozy Campfire",
+        "description": "Поле: хил + радиус атаки союзникам.",
+        "img": "https://www.mobafire.com/images/ability/milio-cozy-campfire.png"
+      },
+      {
+        "name": "E",
+        "title": "Warm Hugs",
+        "description": "Щит + скорость к союзнику (2 заряда).",
+        "img": "https://www.mobafire.com/images/ability/milio-warm-hugs.png"
+      },
+      {
+        "name": "R",
+        "title": "Breath of Life",
+        "description": "AOE снятие контроля + большое исцеление.",
+        "img": "https://www.mobafire.com/images/ability/milio-breath-of-life.png"
+      }
+    ],
+    "id": "milio",
+    "role": "Support"
+  },
+  {
+    "title": "Miss Fortune — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/miss-fortune.png",
+    "description": "MF — сильнейший лейн‑пуш и мощная AOE ульт для тимфайтов.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Love Tap",
+        "description": "Переключение целей — доп. физ. урон.",
+        "img": "https://www.mobafire.com/images/ability/miss-fortune-love-tap.png"
+      },
+      {
+        "name": "Q",
+        "title": "Double Up",
+        "description": "Выстрел – рикошет, второй удар критует.",
+        "img": "https://www.mobafire.com/images/ability/miss-fortune-double-up.png"
+      },
+      {
+        "name": "W",
+        "title": "Strut",
+        "description": "Скорость + скорость атаки (актив).",
+        "img": "https://www.mobafire.com/images/ability/miss-fortune-strut.png"
+      },
+      {
+        "name": "E",
+        "title": "Make It Rain",
+        "description": "AOE slow + урон, вешает Grevious Wounds.",
+        "img": "https://www.mobafire.com/images/ability/miss-fortune-make-it-rain.png"
+      },
+      {
+        "name": "R",
+        "title": "Bullet Time",
+        "description": "Конусная канонада пуль, огромный DPS.",
+        "img": "https://www.mobafire.com/images/ability/miss-fortune-bullet-time.png"
+      }
+    ],
+    "id": "missfortune",
+    "role": "Duo"
+  },
+  {
+    "title": "Mordekaiser — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/mordekaiser.png",
+    "description": "Mordekaiser — AP‑брюзер, уводит ключевую цель в Realm of Death.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Darkness Rise",
+        "description": "Комбо → AOE аура урона + скорость.",
+        "img": "https://www.mobafire.com/images/ability/mordekaiser-darkness-rise.png"
+      },
+      {
+        "name": "Q",
+        "title": "Obliterate",
+        "description": "Удар молотом, больше урон одиночной цели.",
+        "img": "https://www.mobafire.com/images/ability/mordekaiser-obliterate.png"
+      },
+      {
+        "name": "W",
+        "title": "Indestructible",
+        "description": "Щит из нанесённого урона → можно превратить в хил.",
+        "img": "https://www.mobafire.com/images/ability/mordekaiser-indestructible.png"
+      },
+      {
+        "name": "E",
+        "title": "Death's Grasp",
+        "description": "Притягивает врагов к себе.",
+        "img": "https://www.mobafire.com/images/ability/mordekaiser-deaths-grasp.png"
+      },
+      {
+        "name": "R",
+        "title": "Realm of Death",
+        "description": "1‑на‑1 область, крадёт статы цели.",
+        "img": "https://www.mobafire.com/images/ability/mordekaiser-realm-of-death.png"
+      }
+    ],
+    "id": "mordekaiser",
+    "role": "Solo"
+  },
+  {
+    "title": "Morgana — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/morgana.png",
+    "description": "Morgana — саппорт‑маг: легендарный Black Shield и массовый стан ультой.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Soul Siphon",
+        "description": "Лечится за маг‑урон по чемпионам и лесным монстрам.",
+        "img": "https://www.mobafire.com/images/ability/morgana-soul-siphon.png"
+      },
+      {
+        "name": "Q",
+        "title": "Dark Binding",
+        "description": "Долгий корень (1.5‑2 с).",
+        "img": "https://www.mobafire.com/images/ability/morgana-dark-binding.png"
+      },
+      {
+        "name": "W",
+        "title": "Tormented Shadow",
+        "description": "Пул AOE DOT, быстрее тикует по зафиксированным целям.",
+        "img": "https://www.mobafire.com/images/ability/morgana-tormented-shadow.png"
+      },
+      {
+        "name": "E",
+        "title": "Black Shield",
+        "description": "Маг‑щит, иммун к контролю пока не сломали.",
+        "img": "https://www.mobafire.com/images/ability/morgana-black-shield.png"
+      },
+      {
+        "name": "R",
+        "title": "Soul Shackles",
+        "description": "Звёзды цепей: замедление → стан через 3 с + урон.",
+        "img": "https://www.mobafire.com/images/ability/morgana-soul-shackles.png"
+      }
+    ],
+    "id": "morgana",
+    "role": "Support Mid Jungle"
+  },
+  {
+    "title": "Nami — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/nami.png",
+    "description": "Nami — энчант‑саппорт с рута‑пузырём, бафом автоатак и ульт‑приливом.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Surging Tides",
+        "description": "Все бафы Нами дают скорость перемещения.",
+        "img": "https://www.mobafire.com/images/ability/nami-surging-tides.png"
+      },
+      {
+        "name": "Q",
+        "title": "Aqua Prison",
+        "description": "Пузырь: подбрасывает и станит.",
+        "img": "https://www.mobafire.com/images/ability/nami-aqua-prison.png"
+      },
+      {
+        "name": "W",
+        "title": "Ebb and Flow",
+        "description": "Прыгающая волна: лечит союзника / бьёт врага.",
+        "img": "https://www.mobafire.com/images/ability/nami-ebb-and-flow.png"
+      },
+      {
+        "name": "E",
+        "title": "Tidecaller's Blessing",
+        "description": "Бафф 3 автоатак союзнику (slow + маг‑урон).",
+        "img": "https://www.mobafire.com/images/ability/nami-tidecallers-blessing.png"
+      },
+      {
+        "name": "R",
+        "title": "Tidal Wave",
+        "description": "Большая волна: нокаап + замедление и усиливает пассивку.",
+        "img": "https://www.mobafire.com/images/ability/nami-tidal-wave.png"
+      }
+    ],
+    "id": "nami",
+    "role": "Support"
+  },
+  {
+    "title": "Nasus — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/nasus.png",
+    "description": "Nasus — скейл‑топер: бесконечный фарм Q и сильный сплит‑пуш.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Soul Eater",
+        "description": "Вампиризм от автоатак.",
+        "img": "https://www.mobafire.com/images/ability/nasus-soul-eater.png"
+      },
+      {
+        "name": "Q",
+        "title": "Siphoning Strike",
+        "description": "Усиленная автоатака, стакует урон при добивании.",
+        "img": "https://www.mobafire.com/images/ability/nasus-siphoning-strike.png"
+      },
+      {
+        "name": "W",
+        "title": "Wither",
+        "description": "Сильное замедление/slow‑decay.",
+        "img": "https://www.mobafire.com/images/ability/nasus-wither.png"
+      },
+      {
+        "name": "E",
+        "title": "Spirit Fire",
+        "description": "AOE маг‑урон + снижает броню.",
+        "img": "https://www.mobafire.com/images/ability/nasus-spirit-fire.png"
+      },
+      {
+        "name": "R",
+        "title": "Fury of the Sands",
+        "description": "Становится гигантом, AOE урон + бонус HP/AD.",
+        "img": "https://www.mobafire.com/images/ability/nasus-fury-of-the-sands.png"
+      }
+    ],
+    "id": "nasus",
+    "role": "Solo"
+  },
+  {
+    "title": "Nautilus — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/nautilus.png",
+    "description": "Nautilus — суп‑танк с крюком, масс‑станом автоатак и следящей ультой.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Staggering Blow",
+        "description": "Первая автоатака — корень и бонус урон.",
+        "img": "https://www.mobafire.com/images/ability/nautilus-staggering-blow.png"
+      },
+      {
+        "name": "Q",
+        "title": "Dredge Line",
+        "description": "Крюк: притягивает и Наутилуса, и цель.",
+        "img": "https://www.mobafire.com/images/ability/nautilus-dredge-line.png"
+      },
+      {
+        "name": "W",
+        "title": "Titan's Wrath",
+        "description": "Щит + AOE урон от автоатак.",
+        "img": "https://www.mobafire.com/images/ability/nautilus-titans-wrath.png"
+      },
+      {
+        "name": "E",
+        "title": "Riptide",
+        "description": "Кольцевые волны slow + урон.",
+        "img": "https://www.mobafire.com/images/ability/nautilus-riptide.png"
+      },
+      {
+        "name": "R",
+        "title": "Depth Charge",
+        "description": "Преследует цель, подбрасывая всё на пути.",
+        "img": "https://www.mobafire.com/images/ability/nautilus-depth-charge.png"
+      }
+    ],
+    "id": "nautilus",
+    "role": "Support Jungle"
+  },
+  {
+    "title": "Nilah — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/nilah.png",
+    "description": "Nilah — melee‑ADC, разделяющая опыт и превращающая хилы в овер‑хил.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Joy Unending",
+        "description": "Бонус EXP с саппортом, больше щитов/хилов.",
+        "img": "https://www.mobafire.com/images/ability/nilah-joy-unending.png"
+      },
+      {
+        "name": "Q",
+        "title": "Formless Blade",
+        "description": "Волна перед собой + бонус дальности автоатак.",
+        "img": "https://www.mobafire.com/images/ability/nilah-formless-blade.png"
+      },
+      {
+        "name": "W",
+        "title": "Jubilant Veil",
+        "description": "Скорость + уклонение от автоатак, даёт союзнику.",
+        "img": "https://www.mobafire.com/images/ability/nilah-jubilant-veil.png"
+      },
+      {
+        "name": "E",
+        "title": "Slipstream",
+        "description": "Рывок сквозь юнитов (2 заряда).",
+        "img": "https://www.mobafire.com/images/ability/nilah-slipstream.png"
+      },
+      {
+        "name": "R",
+        "title": "Apotheosis",
+        "description": "Вихрь: втягивает врагов и лечит себя/союзников.",
+        "img": "https://www.mobafire.com/images/ability/nilah-apotheosis.png"
+      }
+    ],
+    "id": "nilah",
+    "role": "Duo Jungle"
+  },
+  {
+    "title": "Nocturne — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/nocturne.png",
+    "description": "Nocturne — лесник-ассасин, специализирующийся на мгновенных гангах с ульты.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Umbra Blades",
+        "description": "Каждая 3-я автоатака бьёт по площади и лечит Ноктюрна.",
+        "img": "https://www.mobafire.com/images/ability/nocturne-umbra-blades.png"
+      },
+      {
+        "name": "Q",
+        "title": "Duskbringer",
+        "description": "Пускает тень в линию, нанося урон. По пути оставляет след, дающий скорость и AD.",
+        "img": "https://www.mobafire.com/images/ability/nocturne-duskbringer.png"
+      },
+      {
+        "name": "W",
+        "title": "Shroud of Darkness",
+        "description": "Пассив: бонус к скорости атаки. Актив: щит, поглощающий одно умение. При срабатывании — удваивает пассиву.",
+        "img": "https://www.mobafire.com/images/ability/nocturne-shroud-of-darkness.png"
+      },
+      {
+        "name": "E",
+        "title": "Unspeakable Horror",
+        "description": "Страхует врага через 2 сек, если остаётся в зоне действия. Дот + контроль.",
+        "img": "https://www.mobafire.com/images/ability/nocturne-unspeakable-horror.png"
+      },
+      {
+        "name": "R",
+        "title": "Paranoia",
+        "description": "Ограничивает обзор врагов, затем Ноктюрн может использовать повторно, чтобы врезаться в цель и нанести урон.",
+        "img": "https://www.mobafire.com/images/ability/nocturne-paranoia.png"
+      }
+    ],
+    "id": "nocturne",
+    "role": "Jungle"
+  },
+  {
+    "title": "Nunu & Willump — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/nunu-amp-willump.png",
+    "description": "Нун и Виллумп — танкующий маг с мощным замедлением, хилом и сильной ультой в контроле.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Call of the Freljord",
+        "description": "Ускорение атаки и передвижения после заклинаний.",
+        "img": "https://www.mobafire.com/images/ability/nunu-call-of-the-freljord.png"
+      },
+      {
+        "name": "Q",
+        "title": "Consume",
+        "description": "Укус: наносит урон и лечит Нуна.",
+        "img": "https://www.mobafire.com/images/ability/nunu-consume.png"
+      },
+      {
+        "name": "W",
+        "title": "Biggest Snowball Ever!",
+        "description": "Катает снежный ком, сбивая и замедляя врагов.",
+        "img": "https://www.mobafire.com/images/ability/nunu-biggest-snowball-ever.png"
+      },
+      {
+        "name": "E",
+        "title": "Snowball Barrage",
+        "description": "Плюётся снежками, замедляя и замораживая врагов.",
+        "img": "https://www.mobafire.com/images/ability/nunu-snowball-barrage.png"
+      },
+      {
+        "name": "R",
+        "title": "Absolute Zero",
+        "description": "Каналит ульту: огромный урон и замедление в зоне.",
+        "img": "https://www.mobafire.com/images/ability/nunu-absolute-zero.png"
+      }
+    ],
+    "id": "nunu",
+    "role": "Jungle"
+  },
+  {
+    "title": "Olaf — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/olaf.png",
+    "description": "Олаф — берсерк‑диссейблер с рубящей Q и ультой против контроля.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Berserker Rage",
+        "description": "Меньше ХП — больше скорость атаки.",
+        "img": "https://www.mobafire.com/images/ability/olaf-berserker-rage.png"
+      },
+      {
+        "name": "Q",
+        "title": "Undertow",
+        "description": "Метает топор: урон и замедление, можно подобрать.",
+        "img": "https://www.mobafire.com/images/ability/olaf-undertow.png"
+      },
+      {
+        "name": "W",
+        "title": "Tough It Out",
+        "description": "Хил и бонус к атаке на время.",
+        "img": "https://www.mobafire.com/images/ability/olaf-tough-it-out.png"
+      },
+      {
+        "name": "E",
+        "title": "Reckless Swing",
+        "description": "Истинный урон по врагу за часть своего ХП.",
+        "img": "https://www.mobafire.com/images/ability/olaf-reckless-swing.png"
+      },
+      {
+        "name": "R",
+        "title": "Ragnarok",
+        "description": "Снимает и блокирует контроль, даёт резист и урон.",
+        "img": "https://www.mobafire.com/images/ability/olaf-ragnarok.png"
+      }
+    ],
+    "id": "olaf",
+    "role": "Jungle Solo"
+  },
+  {
+    "title": "Orianna — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/orianna.png",
+    "description": "Орианна — маг с контролем и поддержкой через шар.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Clockwork Windup",
+        "description": "Автоатаки усиливаются при накоплении.",
+        "img": "https://www.mobafire.com/images/ability/orianna-clockwork-windup.png"
+      },
+      {
+        "name": "Q",
+        "title": "Command: Attack",
+        "description": "Перемещает шар, нанося урон.",
+        "img": "https://www.mobafire.com/images/ability/orianna-command-attack.png"
+      },
+      {
+        "name": "W",
+        "title": "Command: Dissonance",
+        "description": "Замедление/ускорение и урон от шара.",
+        "img": "https://www.mobafire.com/images/ability/orianna-command-dissonance.png"
+      },
+      {
+        "name": "E",
+        "title": "Command: Protect",
+        "description": "Щит союзнику и урон врагам по пути шара.",
+        "img": "https://www.mobafire.com/images/ability/orianna-command-protect.png"
+      },
+      {
+        "name": "R",
+        "title": "Command: Shockwave",
+        "description": "Притягивает всех к шару: урон и контроль.",
+        "img": "https://www.mobafire.com/images/ability/orianna-command-shockwave.png"
+      }
+    ],
+    "id": "orianna",
+    "role": "Mid"
+  },
+  {
+    "title": "Orn — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/ornn.png",
+    "description": "Орн — фронтлайн с сильным контролем и пассивным усилением команды.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Living Forge",
+        "description": "Крафт предметов вне базы, улучшение союзников.",
+        "img": "https://www.mobafire.com/images/ability/ornn-living-forge.png"
+      },
+      {
+        "name": "Q",
+        "title": "Volcanic Rupture",
+        "description": "Трескает землю, создаёт столб.",
+        "img": "https://www.mobafire.com/images/ability/ornn-volcanic-rupture.png"
+      },
+      {
+        "name": "W",
+        "title": "Bellows Breath",
+        "description": "Дышит пламенем: урон и накладывает хрупкость.",
+        "img": "https://www.mobafire.com/images/ability/ornn-bellows-breath.png"
+      },
+      {
+        "name": "E",
+        "title": "Searing Charge",
+        "description": "Таран: стан при столкновении с объектами.",
+        "img": "https://www.mobafire.com/images/ability/ornn-searing-charge.png"
+      },
+      {
+        "name": "R",
+        "title": "Call of the Forge God",
+        "description": "Призывает кабана: стан и повторное отталкивание.",
+        "img": "https://www.mobafire.com/images/ability/ornn-call-of-the-forge-god.png"
+      }
+    ],
+    "id": "orn",
+    "role": "Solo Support"
+  },
+  {
+    "title": "Pantheon — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/pantheon.png",
+    "description": "Пантеон — убийца/брюзер с мощным бурстом и контролем.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Mortal Will",
+        "description": "Каждое 5-е заклинание усиливается.",
+        "img": "https://www.mobafire.com/images/ability/pantheon-mortal-will.png"
+      },
+      {
+        "name": "Q",
+        "title": "Comet Spear",
+        "description": "Метает или тычет копьём — урон и замедление.",
+        "img": "https://www.mobafire.com/images/ability/pantheon-comet-spear.png"
+      },
+      {
+        "name": "W",
+        "title": "Shield Vault",
+        "description": "Прыжок с станом + автоатака.",
+        "img": "https://www.mobafire.com/images/ability/pantheon-shield-vault.png"
+      },
+      {
+        "name": "E",
+        "title": "Aegis Assault",
+        "description": "Щит: блокирует урон и атакует перед собой.",
+        "img": "https://www.mobafire.com/images/ability/pantheon-aegis-assault.png"
+      },
+      {
+        "name": "R",
+        "title": "Grand Starfall",
+        "description": "Прыжок через карту с уроном по зоне.",
+        "img": "https://www.mobafire.com/images/ability/pantheon-grand-starfall.png"
+      }
+    ],
+    "id": "pantheon",
+    "role": "Solo Jungle"
+  },
+  {
+    "title": "Poppy — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/poppy.png",
+    "description": "Поппи — танк с антиконтролем, инициацией и отбрасыванием.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Iron Ambassador",
+        "description": "Щит при автоатаке с бумерангом.",
+        "img": "https://www.mobafire.com/images/ability/poppy-iron-ambassador.png"
+      },
+      {
+        "name": "Q",
+        "title": "Hammer Shock",
+        "description": "Удар по земле — два этапа урона.",
+        "img": "https://www.mobafire.com/images/ability/poppy-hammer-shock.png"
+      },
+      {
+        "name": "W",
+        "title": "Steadfast Presence",
+        "description": "Зона анриша + бонус к броне и скорости.",
+        "img": "https://www.mobafire.com/images/ability/poppy-steadfast-presence.png"
+      },
+      {
+        "name": "E",
+        "title": "Heroic Charge",
+        "description": "Толкает врага, станет при ударе об стену.",
+        "img": "https://www.mobafire.com/images/ability/poppy-heroic-charge.png"
+      },
+      {
+        "name": "R",
+        "title": "Keeper's Verdict",
+        "description": "Заряжаемая ульта: отбрасывает далеко врагов.",
+        "img": "https://www.mobafire.com/images/ability/poppy-keepers-verdict.png"
+      }
+    ],
+    "id": "poppy",
+    "role": "Solo Support"
+  },
+  {
+    "title": "Pyke — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/pyke.png",
+    "description": "Пайк — ассасин‑саппорт с инвизом и казнью ультой.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Gift of the Drowned Ones",
+        "description": "Хилится вне боя, не может накапливать ХП.",
+        "img": "https://www.mobafire.com/images/ability/pyke-gift-of-the-drowned-ones.png"
+      },
+      {
+        "name": "Q",
+        "title": "Bone Skewer",
+        "description": "Крюк — притягивает или тычет.",
+        "img": "https://www.mobafire.com/images/ability/pyke-bone-skewer.png"
+      },
+      {
+        "name": "W",
+        "title": "Ghostwater Dive",
+        "description": "Инвиз и ускорение.",
+        "img": "https://www.mobafire.com/images/ability/pyke-ghostwater-dive.png"
+      },
+      {
+        "name": "E",
+        "title": "Phantom Undertow",
+        "description": "Рывок с теневым станом.",
+        "img": "https://www.mobafire.com/images/ability/pyke-phantom-undertow.png"
+      },
+      {
+        "name": "R",
+        "title": "Death from Below",
+        "description": "Казнь врагов в зоне X — даёт золото союзнику.",
+        "img": "https://www.mobafire.com/images/ability/pyke-death-from-below.png"
+      }
+    ],
+    "id": "pyke",
+    "role": "Support Mid"
+  },
+  {
+    "title": "Rakan — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/rakan.png",
+    "description": "Ракан — мобильный саппорт с щитом, хилом и массовым контролем.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Fey Feathers",
+        "description": "Щит, активируемый вне боя.",
+        "img": "https://www.mobafire.com/images/ability/rakan-fey-feathers.png"
+      },
+      {
+        "name": "Q",
+        "title": "Gleaming Quill",
+        "description": "Кидает перо: хил союзникам при попадании.",
+        "img": "https://www.mobafire.com/images/ability/rakan-gleaming-quill.png"
+      },
+      {
+        "name": "W",
+        "title": "Grand Entrance",
+        "description": "Прыжок с подбрасыванием.",
+        "img": "https://www.mobafire.com/images/ability/rakan-grand-entrance.png"
+      },
+      {
+        "name": "E",
+        "title": "Battle Dance",
+        "description": "Прыжки к союзникам с щитом.",
+        "img": "https://www.mobafire.com/images/ability/rakan-battle-dance.png"
+      },
+      {
+        "name": "R",
+        "title": "The Quickness",
+        "description": "Бегает и чармит при касании врагов.",
+        "img": "https://www.mobafire.com/images/ability/rakan-the-quickness.png"
+      }
+    ],
+    "id": "rakan",
+    "role": "Support"
+  },
+  {
+    "title": "Rammus — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/rammus.png",
+    "description": "Раммус — танк с отражением урона и высоким контролем.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Spiked Shell",
+        "description": "Автоатаки наносят доп. урон от брони.",
+        "img": "https://www.mobafire.com/images/ability/rammus-spiked-shell.png"
+      },
+      {
+        "name": "Q",
+        "title": "Powerball",
+        "description": "Катится, сбивает и замедляет.",
+        "img": "https://www.mobafire.com/images/ability/rammus-powerball.png"
+      },
+      {
+        "name": "W",
+        "title": "Defensive Ball Curl",
+        "description": "Броня + отражение урона.",
+        "img": "https://www.mobafire.com/images/ability/rammus-defensive-ball-curl.png"
+      },
+      {
+        "name": "E",
+        "title": "Frenzying Taunt",
+        "description": "Тает врага и ускоряет себя.",
+        "img": "https://www.mobafire.com/images/ability/rammus-frenzying-taunt.png"
+      },
+      {
+        "name": "R",
+        "title": "Soaring Slam",
+        "description": "Прыгает и наносит AOE урон в зоне.",
+        "img": "https://www.mobafire.com/images/ability/rammus-soaring-slam.png"
+      }
+    ],
+    "id": "rammus",
+    "role": "Jungle"
+  },
+  {
+    "title": "Renekton — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/renekton.png",
+    "description": "Ренектон — брузер с рывками, станом и AOE уроном.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Reign of Anger",
+        "description": "Гнев усиливает умения.",
+        "img": "https://www.mobafire.com/images/ability/renekton-reign-of-anger.png"
+      },
+      {
+        "name": "Q",
+        "title": "Cull the Meek",
+        "description": "AOE урон и хил за врагов рядом.",
+        "img": "https://www.mobafire.com/images/ability/renekton-cull-the-meek.png"
+      },
+      {
+        "name": "W",
+        "title": "Ruthless Predator",
+        "description": "Стан по врагу с несколькими ударами.",
+        "img": "https://www.mobafire.com/images/ability/renekton-ruthless-predator.png"
+      },
+      {
+        "name": "E",
+        "title": "Slice and Dice",
+        "description": "Двойной рывок — урон + пробивание при усилении.",
+        "img": "https://www.mobafire.com/images/ability/renekton-slice-and-dice.png"
+      },
+      {
+        "name": "R",
+        "title": "Dominus",
+        "description": "Форма ярости: AOE урон и бонусы к ХП/урону.",
+        "img": "https://www.mobafire.com/images/ability/renekton-dominus.png"
+      }
+    ],
+    "id": "renekton",
+    "role": "Solo"
+  },
+  {
+    "title": "Rengar — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/rengar.png",
+    "description": "Rengar — убийца, доминирующий в кустах и инициации с ульты.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Unseen Predator",
+        "description": "Прыгает на врага из кустов + бонусы за трофеи.",
+        "img": "https://www.mobafire.com/images/ability/rengar-unseen-predator.png"
+      },
+      {
+        "name": "Q",
+        "title": "Savagery",
+        "description": "Урон и скорость атаки, усиливается при ярости.",
+        "img": "https://www.mobafire.com/images/ability/rengar-savagery.png"
+      },
+      {
+        "name": "W",
+        "title": "Battle Roar",
+        "description": "AOE урон + хил + снятие контроля при ярости.",
+        "img": "https://www.mobafire.com/images/ability/rengar-battle-roar.png"
+      },
+      {
+        "name": "E",
+        "title": "Bola Strike",
+        "description": "Замедление или root (при ярости).",
+        "img": "https://www.mobafire.com/images/ability/rengar-bola-strike.png"
+      },
+      {
+        "name": "R",
+        "title": "Thrill of the Hunt",
+        "description": "Невидимость + прыжок с критом по цели.",
+        "img": "https://www.mobafire.com/images/ability/rengar-thrill-of-the-hunt.png"
+      }
+    ],
+    "id": "rengar",
+    "role": "Jungle"
+  },
+  {
+    "title": "Riven — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/riven.png",
+    "description": "Riven — мобильный боец с огромным уроном в комбинациях.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Runic Blade",
+        "description": "Умения усиливают автоатаки.",
+        "img": "https://www.mobafire.com/images/ability/riven-runic-blade.png"
+      },
+      {
+        "name": "Q",
+        "title": "Broken Wings",
+        "description": "3 рывка с уроном, последний — подброс.",
+        "img": "https://www.mobafire.com/images/ability/riven-broken-wings.png"
+      },
+      {
+        "name": "W",
+        "title": "Ki Burst",
+        "description": "AOE стан вокруг.",
+        "img": "https://www.mobafire.com/images/ability/riven-ki-burst.png"
+      },
+      {
+        "name": "E",
+        "title": "Valor",
+        "description": "Щит + рывок.",
+        "img": "https://www.mobafire.com/images/ability/riven-valor.png"
+      },
+      {
+        "name": "R",
+        "title": "Blade of the Exile",
+        "description": "Усиление урона + дальний добивающий выстрел.",
+        "img": "https://www.mobafire.com/images/ability/riven-blade-of-the-exile.png"
+      }
+    ],
+    "id": "riven",
+    "role": "Solo Jungle"
+  },
+  {
+    "title": "Rumble — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/rumble.png",
+    "description": "Rumble — маг-брузер, наносящий много AOE урона.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Junkyard Titan",
+        "description": "Перегрев отключает умения, но усиливает автоатаки.",
+        "img": "https://www.mobafire.com/images/ability/rumble-junkyard-titan.png"
+      },
+      {
+        "name": "Q",
+        "title": "Flamespitter",
+        "description": "AOE урон перед собой.",
+        "img": "https://www.mobafire.com/images/ability/rumble-flamespitter.png"
+      },
+      {
+        "name": "W",
+        "title": "Scrap Shield",
+        "description": "Щит + скорость.",
+        "img": "https://www.mobafire.com/images/ability/rumble-scrap-shield.png"
+      },
+      {
+        "name": "E",
+        "title": "Electro Harpoon",
+        "description": "Два заряда замедляющего урона.",
+        "img": "https://www.mobafire.com/images/ability/rumble-electro-harpoon.png"
+      },
+      {
+        "name": "R",
+        "title": "The Equalizer",
+        "description": "AOE лава по линии с замедлением и уроном.",
+        "img": "https://www.mobafire.com/images/ability/rumble-the-equalizer.png"
+      }
+    ],
+    "id": "rumble",
+    "role": "Solo"
+  },
+  {
+    "title": "Ryze — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/ryze.png",
+    "description": "Ryze — маг с высокой мобильностью и уроном от комбинаций.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Arcane Mastery",
+        "description": "Урон скалируется от маны.",
+        "img": "https://www.mobafire.com/images/ability/ryze-arcane-mastery.png"
+      },
+      {
+        "name": "Q",
+        "title": "Overload",
+        "description": "Простой урон по прямой, усиление при использовании после других умений.",
+        "img": "https://www.mobafire.com/images/ability/ryze-overload.png"
+      },
+      {
+        "name": "W",
+        "title": "Rune Prison",
+        "description": "Таргет стан или root.",
+        "img": "https://www.mobafire.com/images/ability/ryze-rune-prison.png"
+      },
+      {
+        "name": "E",
+        "title": "Spell Flux",
+        "description": "Прыгает по врагам и снижает сопротивление магии.",
+        "img": "https://www.mobafire.com/images/ability/ryze-spell-flux.png"
+      },
+      {
+        "name": "R",
+        "title": "Realm Warp",
+        "description": "TP всей команды в радиусе.",
+        "img": "https://www.mobafire.com/images/ability/ryze-realm-warp.png"
+      }
+    ],
+    "id": "ryze",
+    "role": "Mid"
+  },
+  {
+    "title": "Samira — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/samira.png",
+    "description": "Samira — адк с ближним боем, комбо и ультой как из шутера.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Daredevil Impulse",
+        "description": "Увеличивает стиль боя и даёт бонусы по шкале комбо.",
+        "img": "https://www.mobafire.com/images/ability/samira-daredevil-impulse.png"
+      },
+      {
+        "name": "Q",
+        "title": "Flair",
+        "description": "Выстрел или удар вблизи.",
+        "img": "https://www.mobafire.com/images/ability/samira-flair.png"
+      },
+      {
+        "name": "W",
+        "title": "Blade Whirl",
+        "description": "Кружащиеся клинки — сбивают снаряды и наносят урон.",
+        "img": "https://www.mobafire.com/images/ability/samira-blade-whirl.png"
+      },
+      {
+        "name": "E",
+        "title": "Wild Rush",
+        "description": "Рывок сквозь цель, перезаряжается при убийстве.",
+        "img": "https://www.mobafire.com/images/ability/samira-wild-rush.png"
+      },
+      {
+        "name": "R",
+        "title": "Inferno Trigger",
+        "description": "Расстреливает всех поблизости при полной шкале комбо.",
+        "img": "https://www.mobafire.com/images/ability/samira-inferno-trigger.png"
+      }
+    ],
+    "id": "samira",
+    "role": "Duo"
+  },
+  {
+    "title": "Senna — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/senna.png",
+    "description": "Senna — саппорт-стрелок с дальним уроном и хилом.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Absolution",
+        "description": "Души увеличивают урон и дальность атак.",
+        "img": "https://www.mobafire.com/images/ability/senna-absolution.png"
+      },
+      {
+        "name": "Q",
+        "title": "Piercing Darkness",
+        "description": "Выстрел, который лечит союзников и дамажит врагов.",
+        "img": "https://www.mobafire.com/images/ability/senna-piercing-darkness.png"
+      },
+      {
+        "name": "W",
+        "title": "Last Embrace",
+        "description": "Метка, которая через время станит цель и рядом стоящих.",
+        "img": "https://www.mobafire.com/images/ability/senna-last-embrace.png"
+      },
+      {
+        "name": "E",
+        "title": "Curse of the Black Mist",
+        "description": "Дымка делает союзников невидимыми и ускоряет.",
+        "img": "https://www.mobafire.com/images/ability/senna-curse-of-the-black-mist.png"
+      },
+      {
+        "name": "R",
+        "title": "Dawning Shadow",
+        "description": "Большой глобальный луч — лечит союзников и дамажит врагов.",
+        "img": "https://www.mobafire.com/images/ability/senna-dawning-shadow.png"
+      }
+    ],
+    "id": "senna",
+    "role": "Support"
+  },
+  {
+    "title": "Seraphine — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/seraphine.png",
+    "description": "Seraphine — маг/саппорт с мощным АОЕ контролем и усилением команды.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Stage Presence",
+        "description": "Каждое третье заклинание повторяется, есть эффект от союзников.",
+        "img": "https://www.mobafire.com/images/ability/seraphine-stage-presence.png"
+      },
+      {
+        "name": "Q",
+        "title": "High Note",
+        "description": "АОЕ урон, сильнее при низком здоровье врагов.",
+        "img": "https://www.mobafire.com/images/ability/seraphine-high-note.png"
+      },
+      {
+        "name": "W",
+        "title": "Surround Sound",
+        "description": "Щит и лечение, если уже есть щит.",
+        "img": "https://www.mobafire.com/images/ability/seraphine-surround-sound.png"
+      },
+      {
+        "name": "E",
+        "title": "Beat Drop",
+        "description": "Замедление + стан на врагах с контролем.",
+        "img": "https://www.mobafire.com/images/ability/seraphine-beat-drop.png"
+      },
+      {
+        "name": "R",
+        "title": "Encore",
+        "description": "Большая ульта с шармом, растёт при попадании в союзников.",
+        "img": "https://www.mobafire.com/images/ability/seraphine-encore.png"
+      }
+    ],
+    "id": "seraphine",
+    "role": "Support Mid"
+  },
+  {
+    "title": "Sett — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/sett.png",
+    "description": "Sett — боец-танк с мощными кулаками и бросками.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Pit Grit",
+        "description": "Двойная автоатака — быстрая левая, сильная правая.",
+        "img": "https://www.mobafire.com/images/ability/sett-pit-grit.png"
+      },
+      {
+        "name": "Q",
+        "title": "Knuckle Down",
+        "description": "Ускоряет и усиливает автоатаки.",
+        "img": "https://www.mobafire.com/images/ability/sett-knuckle-down.png"
+      },
+      {
+        "name": "W",
+        "title": "Haymaker",
+        "description": "Щит + мощный удар по центру с true уроном.",
+        "img": "https://www.mobafire.com/images/ability/sett-haymaker.png"
+      },
+      {
+        "name": "E",
+        "title": "Facebreaker",
+        "description": "Стан, если враги по обе стороны, иначе просто притягивает.",
+        "img": "https://www.mobafire.com/images/ability/sett-facebreaker.png"
+      },
+      {
+        "name": "R",
+        "title": "The Show Stopper",
+        "description": "Хватает врага и врезает им в землю, АОЕ урон по другим.",
+        "img": "https://www.mobafire.com/images/ability/sett-the-show-stopper.png"
+      }
+    ],
+    "id": "sett",
+    "role": "Solo"
+  },
+  {
+    "title": "Shen — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/shen.png",
+    "description": "Shen — танк с телепортом на союзников и контролем вблизи.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Ki Barrier",
+        "description": "Щит после заклинаний.",
+        "img": "https://www.mobafire.com/images/ability/shen-ki-barrier.png"
+      },
+      {
+        "name": "Q",
+        "title": "Twilight Assault",
+        "description": "Меч усиливает атаки и наносит урон по врагам на пути.",
+        "img": "https://www.mobafire.com/images/ability/shen-twilight-assault.png"
+      },
+      {
+        "name": "W",
+        "title": "Spirit's Refuge",
+        "description": "Зона, где союзники не получают автоурон.",
+        "img": "https://www.mobafire.com/images/ability/shen-spirits-refuge.png"
+      },
+      {
+        "name": "E",
+        "title": "Shadow Dash",
+        "description": "Рывок с таунтом.",
+        "img": "https://www.mobafire.com/images/ability/shen-shadow-dash.png"
+      },
+      {
+        "name": "R",
+        "title": "Stand United",
+        "description": "Телепорт к союзнику + щит.",
+        "img": "https://www.mobafire.com/images/ability/shen-stand-united.png"
+      }
+    ],
+    "id": "shen",
+    "role": "Solo"
+  },
+  {
+    "title": "Shyvana — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/shyvana.png",
+    "description": "Shyvana — лесник-воин, становящийся драконом в ульте.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Fury of the Dragonborn",
+        "description": "Наносит больше урона по драконам и получает бонусы за их убийство.",
+        "img": "https://www.mobafire.com/images/ability/shyvana-fury-of-the-dragonborn.png"
+      },
+      {
+        "name": "Q",
+        "title": "Twin Bite",
+        "description": "Двойной удар — первая автоатака бьёт дважды.",
+        "img": "https://www.mobafire.com/images/ability/shyvana-twin-bite.png"
+      },
+      {
+        "name": "W",
+        "title": "Burnout",
+        "description": "Взрыв скорости и урона вокруг — урон по врагам вблизи.",
+        "img": "https://www.mobafire.com/images/ability/shyvana-burnout.png"
+      },
+      {
+        "name": "E",
+        "title": "Flame Breath",
+        "description": "Пускает огненный шар, который метит цель — автоатаки по ней наносят доп. урон.",
+        "img": "https://www.mobafire.com/images/ability/shyvana-flame-breath.png"
+      },
+      {
+        "name": "R",
+        "title": "Dragon's Descent",
+        "description": "Превращается в дракона и прыгает вперёд, нанося урон и отталкивая врагов.",
+        "img": "https://www.mobafire.com/images/ability/shyvana-dragons-descent.png"
+      }
+    ],
+    "id": "shyvana",
+    "role": "Jungle"
+  },
+  {
+    "title": "Singed — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/singed.png",
+    "description": "Singed — танк-ядовик, который бегает вокруг врагов, нанося постоянный урон.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Noxious Slipstream",
+        "description": "Получает бонус скорости, проходя рядом с чемпионами.",
+        "img": "https://www.mobafire.com/images/ability/singed-noxious-slipstream.png"
+      },
+      {
+        "name": "Q",
+        "title": "Poison Trail",
+        "description": "Оставляет за собой ядовитый след, нанося урон со временем.",
+        "img": "https://www.mobafire.com/images/ability/singed-poison-trail.png"
+      },
+      {
+        "name": "W",
+        "title": "Mega Adhesive",
+        "description": "Замедляющая лужа, препятствующая рывкам.",
+        "img": "https://www.mobafire.com/images/ability/singed-mega-adhesive.png"
+      },
+      {
+        "name": "E",
+        "title": "Fling",
+        "description": "Подбрасывает врага за себя, нанося урон.",
+        "img": "https://www.mobafire.com/images/ability/singed-fling.png"
+      },
+      {
+        "name": "R",
+        "title": "Insanity Potion",
+        "description": "Дает бонусы к скорости, урону и регенерации.",
+        "img": "https://www.mobafire.com/images/ability/singed-insanity-potion.png"
+      }
+    ],
+    "id": "singed",
+    "role": "Solo Support"
+  },
+  {
+    "title": "Sion — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/sion.png",
+    "description": "Sion — огромный танк с мощным контролем и ультимативной пробивной атакой.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Glory in Death",
+        "description": "После смерти временно оживает, атакуя быстрее.",
+        "img": "https://www.mobafire.com/images/ability/sion-glory-in-death.png"
+      },
+      {
+        "name": "Q",
+        "title": "Decimating Smash",
+        "description": "Мощный удар, наносящий урон и оглушающий при полной зарядке.",
+        "img": "https://www.mobafire.com/images/ability/sion-decimating-smash.png"
+      },
+      {
+        "name": "W",
+        "title": "Soul Furnace",
+        "description": "Щит + взрыв урона при повторной активации.",
+        "img": "https://www.mobafire.com/images/ability/sion-soul-furnace.png"
+      },
+      {
+        "name": "E",
+        "title": "Roar of the Slayer",
+        "description": "Выстреливает врага или миньона, замедляя и ослабляя цели.",
+        "img": "https://www.mobafire.com/images/ability/sion-roar-of-the-slayer.png"
+      },
+      {
+        "name": "R",
+        "title": "Unstoppable Onslaught",
+        "description": "Несётся вперёд на большой скорости, сбивая всех на пути.",
+        "img": "https://www.mobafire.com/images/ability/sion-unstoppable-onslaught.png"
+      }
+    ],
+    "id": "sion",
+    "role": "Solo"
+  },
+  {
+    "title": "Sivir — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/sivir.png",
+    "description": "Sivir — ADC, который наносит урон от рикошета и имеет отличную скорость передвижения.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Fleet of Foot",
+        "description": "Бонус к скорости после атаки по врагу.",
+        "img": "https://www.mobafire.com/images/ability/sivir-fleet-of-foot.png"
+      },
+      {
+        "name": "Q",
+        "title": "Boomerang Blade",
+        "description": "Бумеранг, наносящий урон туда и обратно.",
+        "img": "https://www.mobafire.com/images/ability/sivir-boomerang-blade.png"
+      },
+      {
+        "name": "W",
+        "title": "Ricochet",
+        "description": "Автоатаки отскакивают по врагам.",
+        "img": "https://www.mobafire.com/images/ability/sivir-ricochet.png"
+      },
+      {
+        "name": "E",
+        "title": "Spell Shield",
+        "description": "Поглощает одно вражеское умение и восстанавливает ману.",
+        "img": "https://www.mobafire.com/images/ability/sivir-spell-shield.png"
+      },
+      {
+        "name": "R",
+        "title": "On The Hunt",
+        "description": "Даёт всей команде скорость передвижения.",
+        "img": "https://www.mobafire.com/images/ability/sivir-on-the-hunt.png"
+      }
+    ],
+    "id": "sivir",
+    "role": "Duo"
+  },
+  {
+    "title": "Sona — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/sona.png",
+    "description": "Sona — саппорт-энчантр, дающий исцеление, ускорение и контроль.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Power Chord",
+        "description": "После 3 умений следующая автоатака имеет особый эффект.",
+        "img": "https://www.mobafire.com/images/ability/sona-power-chord.png"
+      },
+      {
+        "name": "Q",
+        "title": "Hymn of Valor",
+        "description": "Наносит урон врагам и усиливает урон союзников.",
+        "img": "https://www.mobafire.com/images/ability/sona-hymn-of-valor.png"
+      },
+      {
+        "name": "W",
+        "title": "Aria of Perseverance",
+        "description": "Лечит союзников и даёт им щит.",
+        "img": "https://www.mobafire.com/images/ability/sona-aria-of-perseverance.png"
+      },
+      {
+        "name": "E",
+        "title": "Song of Celerity",
+        "description": "Увеличивает скорость передвижения союзников.",
+        "img": "https://www.mobafire.com/images/ability/sona-song-of-celerity.png"
+      },
+      {
+        "name": "R",
+        "title": "Crescendo",
+        "description": "Оглушает всех врагов в линии.",
+        "img": "https://www.mobafire.com/images/ability/sona-crescendo.png"
+      }
+    ],
+    "id": "sona",
+    "role": "Support"
+  },
+  {
+    "title": "Soraka — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/soraka.png",
+    "description": "Soraka — сильный целитель, поддерживающий союзников в бою.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Salvation",
+        "description": "Получает скорость к союзникам с малым здоровьем.",
+        "img": "https://www.mobafire.com/images/ability/soraka-salvation.png"
+      },
+      {
+        "name": "Q",
+        "title": "Starcall",
+        "description": "Падает звезда, нанося урон и замедляя врагов.",
+        "img": "https://www.mobafire.com/images/ability/soraka-starcall.png"
+      },
+      {
+        "name": "W",
+        "title": "Astral Infusion",
+        "description": "Исцеляет союзника за счёт своего здоровья.",
+        "img": "https://www.mobafire.com/images/ability/soraka-astral-infusion.png"
+      },
+      {
+        "name": "E",
+        "title": "Equinox",
+        "description": "Создаёт зону тишины, накладывая немоту и затем рут.",
+        "img": "https://www.mobafire.com/images/ability/soraka-equinox.png"
+      },
+      {
+        "name": "R",
+        "title": "Wish",
+        "description": "Исцеляет всех союзников на карте.",
+        "img": "https://www.mobafire.com/images/ability/soraka-wish.png"
+      }
+    ],
+    "id": "soraka",
+    "role": "Support"
+  },
+  {
+    "title": "Swain — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/swain.png",
+    "description": "Swain — маг-танк, который вытягивает здоровье у врагов и наносит массовый урон.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Ravenous Flock",
+        "description": "Подтягивает обездвиженных врагов и лечится.",
+        "img": "https://www.mobafire.com/images/ability/swain-ravenous-flock.png"
+      },
+      {
+        "name": "Q",
+        "title": "Death's Hand",
+        "description": "Выпускает веер энергетических лучей.",
+        "img": "https://www.mobafire.com/images/ability/swain-deaths-hand.png"
+      },
+      {
+        "name": "W",
+        "title": "Vision of Empire",
+        "description": "Дальняя зона урона и замедления, раскрывает врагов.",
+        "img": "https://www.mobafire.com/images/ability/swain-vision-of-empire.png"
+      },
+      {
+        "name": "E",
+        "title": "Nevermove",
+        "description": "Корень врагов в линии.",
+        "img": "https://www.mobafire.com/images/ability/swain-nevermove.png"
+      },
+      {
+        "name": "R",
+        "title": "Demonic Ascension",
+        "description": "Поглощает здоровье у всех вокруг и затем наносит взрывной урон.",
+        "img": "https://www.mobafire.com/images/ability/swain-demonic-ascension.png"
+      }
+    ],
+    "id": "Swain",
+    "role": "Mid Support"
+  },
+  {
+    "title": "Syndra — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/syndra.png",
+    "description": "Syndra — мощный маг бурст-урона с контролем благодаря своим сферам.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Transcendent",
+        "description": "Улучшает умения при прокачке.",
+        "img": "https://www.mobafire.com/images/ability/syndra-transcendent.png"
+      },
+      {
+        "name": "Q",
+        "title": "Dark Sphere",
+        "description": "Создаёт сферу, наносящую магический урон.",
+        "img": "https://www.mobafire.com/images/ability/syndra-dark-sphere.png"
+      },
+      {
+        "name": "W",
+        "title": "Force of Will",
+        "description": "Поднимает и бросает сферу или врага, замедляя при приземлении.",
+        "img": "https://www.mobafire.com/images/ability/syndra-force-of-will.png"
+      },
+      {
+        "name": "E",
+        "title": "Scatter the Weak",
+        "description": "Отталкивает сферы, оглушая врагов.",
+        "img": "https://www.mobafire.com/images/ability/syndra-scatter-the-weak.png"
+      },
+      {
+        "name": "R",
+        "title": "Unleashed Power",
+        "description": "Швыряет все сферы во врага, нанося огромный урон.",
+        "img": "https://www.mobafire.com/images/ability/syndra-unleashed-power.png"
+      }
+    ],
+    "id": "syndra",
+    "role": "Mid"
+  },
+  {
+    "title": "Talon — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/talon.png",
+    "description": "Talon — убийца-ассасин, который быстро уничтожает цели и перепрыгивает через стены.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Blade's End",
+        "description": "Автоатаки наносят доп. урон при накоплении эффектов от умений.",
+        "img": "https://www.mobafire.com/images/ability/talon-blades-end.png"
+      },
+      {
+        "name": "Q",
+        "title": "Noxian Diplomacy",
+        "description": "Короткий рывок и сильная автоатака с кровотечением.",
+        "img": "https://www.mobafire.com/images/ability/talon-noxian-diplomacy.png"
+      },
+      {
+        "name": "W",
+        "title": "Rake",
+        "description": "Бросает кинжалы туда и обратно, нанося урон дважды.",
+        "img": "https://www.mobafire.com/images/ability/talon-rake.png"
+      },
+      {
+        "name": "E",
+        "title": "Assassin's Path",
+        "description": "Перепрыгивает через стены.",
+        "img": "https://www.mobafire.com/images/ability/talon-assassins-path.png"
+      },
+      {
+        "name": "R",
+        "title": "Shadow Assault",
+        "description": "Становится невидимым и выпускает клинки, нанося урон при разлёте и возврате.",
+        "img": "https://www.mobafire.com/images/ability/talon-shadow-assault.png"
+      }
+    ],
+    "id": "talon",
+    "role": "Mid Jungle"
+  },
+  {
+    "title": "Teemo — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/teemo.png",
+    "description": "Teemo — мобильный стрелок с ядом и невидимостью, ставящий смертоносные грибы.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Guerrilla Warfare",
+        "description": "Становится невидимым, стоя на месте или в кустах.",
+        "img": "https://www.mobafire.com/images/ability/teemo-guerrilla-warfare.png"
+      },
+      {
+        "name": "Q",
+        "title": "Blinding Dart",
+        "description": "Ослепляет врага, отменяя его автоатаки.",
+        "img": "https://www.mobafire.com/images/ability/teemo-blinding-dart.png"
+      },
+      {
+        "name": "W",
+        "title": "Move Quick",
+        "description": "Дает постоянную и временную скорость движения.",
+        "img": "https://www.mobafire.com/images/ability/teemo-move-quick.png"
+      },
+      {
+        "name": "E",
+        "title": "Toxic Shot",
+        "description": "Автоатаки отравляют цель на время.",
+        "img": "https://www.mobafire.com/images/ability/teemo-toxic-shot.png"
+      },
+      {
+        "name": "R",
+        "title": "Noxious Trap",
+        "description": "Ставит грибы-мины, наносящие урон и замедление.",
+        "img": "https://www.mobafire.com/images/ability/teemo-noxious-trap.png"
+      }
+    ],
+    "id": "teemo",
+    "role": "Solo"
+  },
+  {
+    "title": "Thresh — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/thresh.png",
+    "description": "Thresh — саппорт-контроллер с возможностью вытягивать врагов и спасать союзников.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Damnation",
+        "description": "Собирает души для усиления брони и силы умений.",
+        "img": "https://www.mobafire.com/images/ability/thresh-damnation.png"
+      },
+      {
+        "name": "Q",
+        "title": "Death Sentence",
+        "description": "Крюк, притягивающий к себе врага.",
+        "img": "https://www.mobafire.com/images/ability/thresh-death-sentence.png"
+      },
+      {
+        "name": "W",
+        "title": "Dark Passage",
+        "description": "Бросает фонарь, позволяя союзнику прыгнуть к Трешу.",
+        "img": "https://www.mobafire.com/images/ability/thresh-dark-passage.png"
+      },
+      {
+        "name": "E",
+        "title": "Flay",
+        "description": "Взмах цепью — отталкивает или притягивает врагов.",
+        "img": "https://www.mobafire.com/images/ability/thresh-flay.png"
+      },
+      {
+        "name": "R",
+        "title": "The Box",
+        "description": "Создаёт клетку, замедляющую и наносящую урон при контакте.",
+        "img": "https://www.mobafire.com/images/ability/thresh-the-box.png"
+      }
+    ],
+    "id": "thresh",
+    "role": "Support"
+  },
+  {
+    "title": "Tristana — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/tristana.png",
+    "description": "Tristana — мобильный стрелок с сильным пуш-потенциалом и высоким бурст-уроном.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Draw a Bead",
+        "description": "Увеличивает дальность атаки с ростом уровня.",
+        "img": "https://www.mobafire.com/images/ability/tristana-draw-a-bead.png"
+      },
+      {
+        "name": "Q",
+        "title": "Rapid Fire",
+        "description": "Увеличивает скорость атаки на время.",
+        "img": "https://www.mobafire.com/images/ability/tristana-rapid-fire.png"
+      },
+      {
+        "name": "W",
+        "title": "Rocket Jump",
+        "description": "Прыжок в область, нанося урон и замедляя врагов.",
+        "img": "https://www.mobafire.com/images/ability/tristana-rocket-jump.png"
+      },
+      {
+        "name": "E",
+        "title": "Explosive Charge",
+        "description": "Закрепляет заряд на враге или башне, взрывающийся после атак.",
+        "img": "https://www.mobafire.com/images/ability/tristana-explosive-charge.png"
+      },
+      {
+        "name": "R",
+        "title": "Buster Shot",
+        "description": "Мощный выстрел, отбрасывающий врага и наносящий урон.",
+        "img": "https://www.mobafire.com/images/ability/tristana-buster-shot.png"
+      }
+    ],
+    "id": "tristana",
+    "role": "Duo"
+  },
+  {
+    "title": "Tryndamere — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/tryndamere.png",
+    "description": "Tryndamere — брузер с высоким уроном в ближнем бою и неубиваемостью на ульте.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Battle Fury",
+        "description": "Накапливает ярость за автоатаки и критические удары.",
+        "img": "https://www.mobafire.com/images/ability/tryndamere-battle-fury.png"
+      },
+      {
+        "name": "Q",
+        "title": "Bloodlust",
+        "description": "Лечение и бонус к урону на основе ярости.",
+        "img": "https://www.mobafire.com/images/ability/tryndamere-bloodlust.png"
+      },
+      {
+        "name": "W",
+        "title": "Mocking Shout",
+        "description": "Замедляет врагов и снижает их урон.",
+        "img": "https://www.mobafire.com/images/ability/tryndamere-mocking-shout.png"
+      },
+      {
+        "name": "E",
+        "title": "Spinning Slash",
+        "description": "Вертушка вперёд, нанося урон всем на пути.",
+        "img": "https://www.mobafire.com/images/ability/tryndamere-spinning-slash.png"
+      },
+      {
+        "name": "R",
+        "title": "Undying Rage",
+        "description": "На несколько секунд становится неуязвимым к смерти.",
+        "img": "https://www.mobafire.com/images/ability/tryndamere-undying-rage.png"
+      }
+    ],
+    "id": "tryndamere",
+    "role": "Jungle Solo"
+  },
+  {
+    "title": "Twisted Fate — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/twisted-fate.png",
+    "description": "Twisted Fate — маг с глобальным присутствием и контролем карт.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Loaded Dice",
+        "description": "Получает дополнительное золото за убийство миньонов.",
+        "img": "https://www.mobafire.com/images/ability/twisted-fate-loaded-dice.png"
+      },
+      {
+        "name": "Q",
+        "title": "Wild Cards",
+        "description": "Бросает три карты, нанося урон насквозь.",
+        "img": "https://www.mobafire.com/images/ability/twisted-fate-wild-cards.png"
+      },
+      {
+        "name": "W",
+        "title": "Pick a Card",
+        "description": "Выбирает карту: урон, замедление или оглушение.",
+        "img": "https://www.mobafire.com/images/ability/twisted-fate-pick-a-card.png"
+      },
+      {
+        "name": "E",
+        "title": "Stacked Deck",
+        "description": "Каждая четвёртая автоатака наносит дополнительный урон и ускоряет атакующую скорость.",
+        "img": "https://www.mobafire.com/images/ability/twisted-fate-stacked-deck.png"
+      },
+      {
+        "name": "R",
+        "title": "Destiny",
+        "description": "Раскрывает всех врагов и позволяет телепортироваться в любую точку карты.",
+        "img": "https://www.mobafire.com/images/ability/twisted-fate-destiny.png"
+      }
+    ],
+    "id": "twistedfate",
+    "role": "Mid"
+  },
+  {
+    "title": "Twitch — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/twitch.png",
+    "description": "Twitch — скрытный стрелок с массовым уроном за счёт яда и дальнего ульта.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Deadly Venom",
+        "description": "Автоатаки отравляют врагов.",
+        "img": "https://www.mobafire.com/images/ability/twitch-deadly-venom.png"
+      },
+      {
+        "name": "Q",
+        "title": "Ambush",
+        "description": "Входит в невидимость, получая скорость передвижения и атак после выхода.",
+        "img": "https://www.mobafire.com/images/ability/twitch-ambush.png"
+      },
+      {
+        "name": "W",
+        "title": "Venom Cask",
+        "description": "Замедляет врагов и накладывает ядовитые заряды.",
+        "img": "https://www.mobafire.com/images/ability/twitch-venom-cask.png"
+      },
+      {
+        "name": "E",
+        "title": "Contaminate",
+        "description": "Взрывает ядовитые заряды, нанося урон.",
+        "img": "https://www.mobafire.com/images/ability/twitch-contaminate.png"
+      },
+      {
+        "name": "R",
+        "title": "Spray and Pray",
+        "description": "Дальний урон сквозными пулями на время.",
+        "img": "https://www.mobafire.com/images/ability/twitch-spray-and-pray.png"
+      }
+    ],
+    "id": "twitch",
+    "role": "Duo"
+  },
+  {
+    "title": "Urgot — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/urgot.png",
+    "description": "Urgot — боец-танк с мощными автоатаками и казнью на ульте.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Echoing Flames",
+        "description": "Автоатаки из шести пушек по врагам вокруг.",
+        "img": "https://www.mobafire.com/images/ability/urgot-echoing-flames.png"
+      },
+      {
+        "name": "Q",
+        "title": "Corrosive Charge",
+        "description": "Выстрел по области, нанося урон и замедляя.",
+        "img": "https://www.mobafire.com/images/ability/urgot-corrosive-charge.png"
+      },
+      {
+        "name": "W",
+        "title": "Purge",
+        "description": "Стреляет в ближайшего врага серией автоатак и даёт щит.",
+        "img": "https://www.mobafire.com/images/ability/urgot-purge.png"
+      },
+      {
+        "name": "E",
+        "title": "Disdain",
+        "description": "Рывок с отталкиванием врагов.",
+        "img": "https://www.mobafire.com/images/ability/urgot-disdain.png"
+      },
+      {
+        "name": "R",
+        "title": "Fear Beyond Death",
+        "description": "Казнит врага, если его здоровье опустится ниже порога.",
+        "img": "https://www.mobafire.com/images/ability/urgot-fear-beyond-death.png"
+      }
+    ],
+    "id": "urgot",
+    "role": "Solo"
+  },
+  {
+    "title": "Varus — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/varus.png",
+    "description": "Varus — стрелок с сильным уроном на расстоянии и контролем.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Living Vengeance",
+        "description": "Увеличение скорости атаки после убийства или помощи.",
+        "img": "https://www.mobafire.com/images/ability/varus-living-vengeance.png"
+      },
+      {
+        "name": "Q",
+        "title": "Piercing Arrow",
+        "description": "Заряжает мощный выстрел насквозь.",
+        "img": "https://www.mobafire.com/images/ability/varus-piercing-arrow.png"
+      },
+      {
+        "name": "W",
+        "title": "Blighted Quiver",
+        "description": "Автоатаки наносят дополнительный магический урон и усиливают другие умения.",
+        "img": "https://www.mobafire.com/images/ability/varus-blighted-quiver.png"
+      },
+      {
+        "name": "E",
+        "title": "Hail of Arrows",
+        "description": "Стреляет в область, замедляя и снижая лечение врагов.",
+        "img": "https://www.mobafire.com/images/ability/varus-hail-of-arrows.png"
+      },
+      {
+        "name": "R",
+        "title": "Chain of Corruption",
+        "description": "Пускает цепь, обездвиживая врагов и распространяясь на других.",
+        "img": "https://www.mobafire.com/images/ability/varus-chain-of-corruption.png"
+      }
+    ],
+    "id": "varus",
+    "role": "Duo"
+  },
+  {
+    "title": "Vayne — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/vayne.png",
+    "description": "Vayne — мобильный стрелок, специализирующийся на уничтожении танков.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Night Hunter",
+        "description": "Ускорение при преследовании врагов.",
+        "img": "https://www.mobafire.com/images/ability/vayne-night-hunter.png"
+      },
+      {
+        "name": "Q",
+        "title": "Tumble",
+        "description": "Короткий рывок и усиленная автоатака.",
+        "img": "https://www.mobafire.com/images/ability/vayne-tumble.png"
+      },
+      {
+        "name": "W",
+        "title": "Silver Bolts",
+        "description": "Каждая третья атака наносит процентный урон от максимального здоровья.",
+        "img": "https://www.mobafire.com/images/ability/vayne-silver-bolts.png"
+      },
+      {
+        "name": "E",
+        "title": "Condemn",
+        "description": "Отбрасывает врага; если ударяется о стену, оглушает.",
+        "img": "https://www.mobafire.com/images/ability/vayne-condemn.png"
+      },
+      {
+        "name": "R",
+        "title": "Final Hour",
+        "description": "Усиление урона, невидимость от Q и доп. скорость.",
+        "img": "https://www.mobafire.com/images/ability/vayne-final-hour.png"
+      }
+    ],
+    "id": "vayne",
+    "role": "Duo"
+  },
+  {
+    "title": "Veigar — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/veigar.png",
+    "description": "Veigar — маг с бесконечным ростом силы умений и мощной ультой.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Phenomenal Evil Power",
+        "description": "Постоянно увеличивает AP за каждое убийство и попадание способностями.",
+        "img": "https://www.mobafire.com/images/ability/veigar-phenomenal-evil-power.png"
+      },
+      {
+        "name": "Q",
+        "title": "Baleful Strike",
+        "description": "Выстрел по прямой, убийство миньона или чемпиона даёт стаки силы.",
+        "img": "https://www.mobafire.com/images/ability/veigar-baleful-strike.png"
+      },
+      {
+        "name": "W",
+        "title": "Dark Matter",
+        "description": "Метеор падает с неба, нанося урон по области.",
+        "img": "https://www.mobafire.com/images/ability/veigar-dark-matter.png"
+      },
+      {
+        "name": "E",
+        "title": "Event Horizon",
+        "description": "Клетка: станит врагов, столкнувшихся с её стенкой.",
+        "img": "https://www.mobafire.com/images/ability/veigar-event-horizon.png"
+      },
+      {
+        "name": "R",
+        "title": "Primordial Burst",
+        "description": "Наносит огромный урон цели, усиливаясь против целей с малым здоровьем.",
+        "img": "https://www.mobafire.com/images/ability/veigar-primordial-burst.png"
+      }
+    ],
+    "id": "veigar",
+    "role": "Mid"
+  },
+  {
+    "title": "Vex — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/vex.png",
+    "description": "Vex — маг контроля с антипрыжковыми эффектами и бурст-уроном.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Doom 'n Gloom",
+        "description": "Периодически усиливает умение для страховки врагов; пассивный урон по прыгающим врагам.",
+        "img": "https://www.mobafire.com/images/ability/vex-doom-n-gloom.png"
+      },
+      {
+        "name": "Q",
+        "title": "Mistral Bolt",
+        "description": "Выстреляет снарядом, нанося урон по прямой.",
+        "img": "https://www.mobafire.com/images/ability/vex-mistral-bolt.png"
+      },
+      {
+        "name": "W",
+        "title": "Personal Space",
+        "description": "Щит и взрыв урона вокруг себя.",
+        "img": "https://www.mobafire.com/images/ability/vex-personal-space.png"
+      },
+      {
+        "name": "E",
+        "title": "Looming Darkness",
+        "description": "Замедляет и помечает врагов для усиленного урона.",
+        "img": "https://www.mobafire.com/images/ability/vex-looming-darkness.png"
+      },
+      {
+        "name": "R",
+        "title": "Shadow Surge",
+        "description": "Запускает тень, поражая и притягиваясь к врагу. Повторная активация возможна при убийстве.",
+        "img": "https://www.mobafire.com/images/ability/vex-shadow-surge.png"
+      }
+    ],
+    "id": "vex",
+    "role": "Mid"
+  },
+  {
+    "title": "Vi — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/vi.png",
+    "description": "Vi — мобильный боец с сильными инициирующими способностями.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Blast Shield",
+        "description": "Получает щит при применении способностей к врагам.",
+        "img": "https://www.mobafire.com/images/ability/vi-blast-shield.png"
+      },
+      {
+        "name": "Q",
+        "title": "Vault Breaker",
+        "description": "Заряжается для мощного рывка, нанося урон и отбрасывая врагов.",
+        "img": "https://www.mobafire.com/images/ability/vi-vault-breaker.png"
+      },
+      {
+        "name": "W",
+        "title": "Denting Blows",
+        "description": "Каждая третья атака снижает броню и наносит бонусный урон.",
+        "img": "https://www.mobafire.com/images/ability/vi-denting-blows.png"
+      },
+      {
+        "name": "E",
+        "title": "Relentless Force",
+        "description": "Следующая автоатака наносит дополнительный AOE урон.",
+        "img": "https://www.mobafire.com/images/ability/vi-relentless-force.png"
+      },
+      {
+        "name": "R",
+        "title": "Cease and Desist",
+        "description": "Выбирает врага и неотступно к нему мчится, подбрасывая всех на пути.",
+        "img": "https://www.mobafire.com/images/ability/vi-cease-and-desist.png"
+      }
+    ],
+    "id": "vi",
+    "role": "Jungle"
+  },
+  {
+    "title": "Viego — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/viego.png",
+    "description": "Viego — боец, способный захватывать тела убитых врагов.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Sovereign's Domination",
+        "description": "Захватывает тела убитых чемпионов и использует их способности.",
+        "img": "https://www.mobafire.com/images/ability/viego-sovereigns-domination.png"
+      },
+      {
+        "name": "Q",
+        "title": "Blade of the Ruined King",
+        "description": "Дает дополнительный урон при атаках и восстанавливает здоровье.",
+        "img": "https://www.mobafire.com/images/ability/viego-blade-of-the-ruined-king.png"
+      },
+      {
+        "name": "W",
+        "title": "Spectral Maw",
+        "description": "Зарядка рывка, оглушающего цель.",
+        "img": "https://www.mobafire.com/images/ability/viego-spectral-maw.png"
+      },
+      {
+        "name": "E",
+        "title": "Harrowed Path",
+        "description": "Создает область тумана, дающую скорость передвижения и невидимость.",
+        "img": "https://www.mobafire.com/images/ability/viego-harrowed-path.png"
+      },
+      {
+        "name": "R",
+        "title": "Heartbreaker",
+        "description": "Прыжок к врагу с большим уроном; добивает слабых противников.",
+        "img": "https://www.mobafire.com/images/ability/viego-heartbreaker.png"
+      }
+    ],
+    "id": "viego",
+    "role": "Jungle"
+  },
+  {
+    "title": "Viktor — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/viktor.png",
+    "description": "Viktor — маг контроля зоны с масштабируемыми улучшениями умений.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Glorious Evolution",
+        "description": "Улучшает свои умения с помощью осколков.",
+        "img": "https://www.mobafire.com/images/ability/viktor-glorious-evolution.png"
+      },
+      {
+        "name": "Q",
+        "title": "Siphon Power",
+        "description": "Щит и усиленная автоатака.",
+        "img": "https://www.mobafire.com/images/ability/viktor-siphon-power.png"
+      },
+      {
+        "name": "W",
+        "title": "Gravity Field",
+        "description": "Замедляет врагов и оглушает их в центре поля.",
+        "img": "https://www.mobafire.com/images/ability/viktor-gravity-field.png"
+      },
+      {
+        "name": "E",
+        "title": "Death Ray",
+        "description": "Пускает луч урона по линии.",
+        "img": "https://www.mobafire.com/images/ability/viktor-death-ray.png"
+      },
+      {
+        "name": "R",
+        "title": "Chaos Storm",
+        "description": "Создает бурю, наносящую урон и прерывающую заклинания.",
+        "img": "https://www.mobafire.com/images/ability/viktor-chaos-storm.png"
+      }
+    ],
+    "id": "viktor",
+    "role": "Mid"
+  },
+  {
+    "title": "Vladimir — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/vladimir.png",
+    "description": "Vladimir — маг-саппорт, зависящий от исцеления и массового урона.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Crimson Pact",
+        "description": "Увеличение AP и здоровья пропорционально друг другу.",
+        "img": "https://www.mobafire.com/images/ability/vladimir-crimson-pact.png"
+      },
+      {
+        "name": "Q",
+        "title": "Transfusion",
+        "description": "Наносит урон врагу и лечит Владимира.",
+        "img": "https://www.mobafire.com/images/ability/vladimir-transfusion.png"
+      },
+      {
+        "name": "W",
+        "title": "Sanguine Pool",
+        "description": "Погружается в лужу крови, получая неуязвимость и замедляя врагов.",
+        "img": "https://www.mobafire.com/images/ability/vladimir-sanguine-pool.png"
+      },
+      {
+        "name": "E",
+        "title": "Tides of Blood",
+        "description": "Заряжается для нанесения урона вокруг себя.",
+        "img": "https://www.mobafire.com/images/ability/vladimir-tides-of-blood.png"
+      },
+      {
+        "name": "R",
+        "title": "Hemoplague",
+        "description": "Накладывает дебафф, усиливающий получаемый урон, а затем взрывает врагов.",
+        "img": "https://www.mobafire.com/images/ability/vladimir-hemoplague.png"
+      }
+    ],
+    "id": "vladimir",
+    "role": "Solo Mid"
+  },
+  {
+    "title": "Volibear — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/volibear.png",
+    "description": "Volibear — танк с сильной инициацией и уроном на ближней дистанции.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "The Relentless Storm",
+        "description": "Атаки усиливаются, создавая цепные молнии.",
+        "img": "https://www.mobafire.com/images/ability/volibear-the-relentless-storm.png"
+      },
+      {
+        "name": "Q",
+        "title": "Thundering Smash",
+        "description": "Ускоряется к врагу и оглушает его.",
+        "img": "https://www.mobafire.com/images/ability/volibear-thundering-smash.png"
+      },
+      {
+        "name": "W",
+        "title": "Frenzied Maul",
+        "description": "Кусает врага, нанося урон и исцеляясь.",
+        "img": "https://www.mobafire.com/images/ability/volibear-frenzied-maul.png"
+      },
+      {
+        "name": "E",
+        "title": "Sky Splitter",
+        "description": "Бьёт молнией по области, замедляя и нанося урон.",
+        "img": "https://www.mobafire.com/images/ability/volibear-sky-splitter.png"
+      },
+      {
+        "name": "R",
+        "title": "Stormbringer",
+        "description": "Прыгает вперёд, отключая башни и замедляя врагов.",
+        "img": "https://www.mobafire.com/images/ability/volibear-stormbringer.png"
+      }
+    ],
+    "id": "volibear",
+    "role": "Solo Jungle"
+  },
+  {
+    "title": "Warwick — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/warwick.png",
+    "description": "Warwick — охотник с сильным вампиризмом и способностью выслеживать раненых врагов.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Eternal Hunger",
+        "description": "Каждая автоатака наносит дополнительный магический урон и лечит Warwick.",
+        "img": "https://www.mobafire.com/images/ability/warwick-eternal-hunger.png"
+      },
+      {
+        "name": "Q",
+        "title": "Jaws of the Beast",
+        "description": "Прыжок на врага и лечение за нанесённый урон.",
+        "img": "https://www.mobafire.com/images/ability/warwick-jaws-of-the-beast.png"
+      },
+      {
+        "name": "W",
+        "title": "Blood Hunt",
+        "description": "Выявляет раненых врагов и ускоряется к ним.",
+        "img": "https://www.mobafire.com/images/ability/warwick-blood-hunt.png"
+      },
+      {
+        "name": "E",
+        "title": "Primal Howl",
+        "description": "Снижает урон по себе, затем страхует врагов.",
+        "img": "https://www.mobafire.com/images/ability/warwick-primal-howl.png"
+      },
+      {
+        "name": "R",
+        "title": "Infinite Duress",
+        "description": "Прыжок на врага с серией ударов, подавляющих цель.",
+        "img": "https://www.mobafire.com/images/ability/warwick-infinite-duress.png"
+      }
+    ],
+    "id": "warwick",
+    "role": "Jungle Solo"
+  },
+  {
+    "title": "Wukong — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/wukong.png",
+    "description": "Wukong — мобильный боец с инвизом и мощной AOE-ультимейтом.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Stone Skin",
+        "description": "Повышает броню и регенерацию здоровья в бою.",
+        "img": "https://www.mobafire.com/images/ability/wukong-stone-skin.png"
+      },
+      {
+        "name": "Q",
+        "title": "Crushing Blow",
+        "description": "Усиливает следующую автоатаку, снижая броню цели.",
+        "img": "https://www.mobafire.com/images/ability/wukong-crushing-blow.png"
+      },
+      {
+        "name": "W",
+        "title": "Warrior Trickster",
+        "description": "Инвиз + оставляет приманку.",
+        "img": "https://www.mobafire.com/images/ability/wukong-warrior-trickster.png"
+      },
+      {
+        "name": "E",
+        "title": "Nimbus Strike",
+        "description": "Прыгает на врагов, создавая копии, которые атакуют.",
+        "img": "https://www.mobafire.com/images/ability/wukong-nimbus-strike.png"
+      },
+      {
+        "name": "R",
+        "title": "Cyclone",
+        "description": "Вращается, подбрасывая и нанося урон врагам.",
+        "img": "https://www.mobafire.com/images/ability/wukong-cyclone.png"
+      }
+    ],
+    "id": "wukong",
+    "role": "Jungle Solo"
+  },
+  {
+    "title": "Xayah — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/xayah.png",
+    "description": "Xayah — мобильный стрелок с контролем через перья и ультимейтом-эвейдом.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Clean Cuts",
+        "description": "После умений автоатаки пронзают врагов.",
+        "img": "https://www.mobafire.com/images/ability/xayah-clean-cuts.png"
+      },
+      {
+        "name": "Q",
+        "title": "Double Daggers",
+        "description": "Бросает кинжалы, оставляя перья.",
+        "img": "https://www.mobafire.com/images/ability/xayah-double-daggers.png"
+      },
+      {
+        "name": "W",
+        "title": "Deadly Plumage",
+        "description": "Ускоряет атаки и даёт бонус скорость передвижения.",
+        "img": "https://www.mobafire.com/images/ability/xayah-deadly-plumage.png"
+      },
+      {
+        "name": "E",
+        "title": "Bladecaller",
+        "description": "Притягивает перья, нанося урон и рутя врагов.",
+        "img": "https://www.mobafire.com/images/ability/xayah-bladecaller.png"
+      },
+      {
+        "name": "R",
+        "title": "Featherstorm",
+        "description": "Прыжок в воздух + бросок множества перьев.",
+        "img": "https://www.mobafire.com/images/ability/xayah-featherstorm.png"
+      }
+    ],
+    "id": "xayah",
+    "role": "Duo"
+  },
+  {
+    "title": "Xin Zhao — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/xin-zhao.png",
+    "description": "Xin Zhao — файтер с сильным начальным натиском и защитной ультой.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Determination",
+        "description": "Третья атака лечит и наносит дополнительный урон.",
+        "img": "https://www.mobafire.com/images/ability/xin-zhao-determination.png"
+      },
+      {
+        "name": "Q",
+        "title": "Three Talon Strike",
+        "description": "Усиливает три автоатаки, подбрасывая на последней.",
+        "img": "https://www.mobafire.com/images/ability/xin-zhao-three-talon-strike.png"
+      },
+      {
+        "name": "W",
+        "title": "Wind Becomes Lightning",
+        "description": "Двухфазная атака копьем.",
+        "img": "https://www.mobafire.com/images/ability/xin-zhao-wind-becomes-lightning.png"
+      },
+      {
+        "name": "E",
+        "title": "Audacious Charge",
+        "description": "Прыгает к врагу с замедлением.",
+        "img": "https://www.mobafire.com/images/ability/xin-zhao-audacious-charge.png"
+      },
+      {
+        "name": "R",
+        "title": "Crescent Guard",
+        "description": "Отталкивает врагов и блокирует урон от дальних атак.",
+        "img": "https://www.mobafire.com/images/ability/xin-zhao-crescent-guard.png"
+      }
+    ],
+    "id": "xinZhao",
+    "role": "Jungle"
+  },
+  {
+    "title": "Yasuo — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/yasuo.png",
+    "description": "Yasuo — мобильный дуэлянт с мощными комбо через ветер и криты.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Way of the Wanderer",
+        "description": "Шанс крита удваивается, при перегоне получает щит.",
+        "img": "https://www.mobafire.com/images/ability/yasuo-way-of-the-wanderer.png"
+      },
+      {
+        "name": "Q",
+        "title": "Steel Tempest",
+        "description": "Прямая атака мечом; два раза подряд заряжается торнадо.",
+        "img": "https://www.mobafire.com/images/ability/yasuo-steel-tempest.png"
+      },
+      {
+        "name": "W",
+        "title": "Wind Wall",
+        "description": "Создаёт стену, блокирующую снаряды.",
+        "img": "https://www.mobafire.com/images/ability/yasuo-wind-wall.png"
+      },
+      {
+        "name": "E",
+        "title": "Sweeping Blade",
+        "description": "Рывок через врага с уроном.",
+        "img": "https://www.mobafire.com/images/ability/yasuo-sweeping-blade.png"
+      },
+      {
+        "name": "R",
+        "title": "Last Breath",
+        "description": "Подпрыгивает к подброшенным врагам и наносит комбо-удары.",
+        "img": "https://www.mobafire.com/images/ability/yasuo-last-breath.png"
+      }
+    ],
+    "id": "yasuo",
+    "role": "Mid Solo"
+  },
+  {
+    "title": "Yone — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/yone.png",
+    "description": "Yone — ассасин-дуэлянт с двойным уроном от физических и магических атак.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Way of the Hunter",
+        "description": "Атаки наносят частично магический урон; шанс крита увеличен.",
+        "img": "https://www.mobafire.com/images/ability/yone-way-of-the-hunter.png"
+      },
+      {
+        "name": "Q",
+        "title": "Mortal Steel",
+        "description": "Прямой удар, заряжающий торнадо на третьем использовании.",
+        "img": "https://www.mobafire.com/images/ability/yone-mortal-steel.png"
+      },
+      {
+        "name": "W",
+        "title": "Spirit Cleave",
+        "description": "Режет всех врагов перед собой и получает щит.",
+        "img": "https://www.mobafire.com/images/ability/yone-spirit-cleave.png"
+      },
+      {
+        "name": "E",
+        "title": "Soul Unbound",
+        "description": "Оставляет тело и атакует духом; возвращается с накопленным уроном.",
+        "img": "https://www.mobafire.com/images/ability/yone-soul-unbound.png"
+      },
+      {
+        "name": "R",
+        "title": "Fate Sealed",
+        "description": "Рывок через врагов, сбивая их в одну точку.",
+        "img": "https://www.mobafire.com/images/ability/yone-fate-sealed.png"
+      }
+    ],
+    "id": "yone",
+    "role": "Mid Jungle Solo"
+  },
+  {
+    "title": "Yuumi — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/yuumi.png",
+    "description": "Yuumi — саппорт-целитель, присоединяющийся к союзникам для усиления и исцеления.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Bop 'n' Block",
+        "description": "Атака восстанавливает ману и даёт щит.",
+        "img": "https://www.mobafire.com/images/ability/yuumi-bop-n-block.png"
+      },
+      {
+        "name": "Q",
+        "title": "Prowling Projectile",
+        "description": "Запускает управляемую ракету, нанося урон и замедляя.",
+        "img": "https://www.mobafire.com/images/ability/yuumi-prowling-projectile.png"
+      },
+      {
+        "name": "W",
+        "title": "You and Me!",
+        "description": "Присоединяется к союзнику, давая бонусы и неуязвимость.",
+        "img": "https://www.mobafire.com/images/ability/yuumi-you-and-me.png"
+      },
+      {
+        "name": "E",
+        "title": "Zoomies",
+        "description": "Лечит себя и союзника, ускоряя их.",
+        "img": "https://www.mobafire.com/images/ability/yuumi-zoomies.png"
+      },
+      {
+        "name": "R",
+        "title": "Final Chapter",
+        "description": "Выпускает серию волн, исцеляя союзников и рутя врагов.",
+        "img": "https://www.mobafire.com/images/ability/yuumi-final-chapter.png"
+      }
+    ],
+    "id": "yuumi",
+    "role": "Support"
+  },
+  {
+    "title": "Zed — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/zed.png",
+    "description": "Zed — убийца с тенями, быстро уничтожающий одиночные цели.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Contempt for the Weak",
+        "description": "Автоатаки наносят дополнительный урон слабым врагам.",
+        "img": "https://www.mobafire.com/images/ability/zed-contempt-for-the-weak.png"
+      },
+      {
+        "name": "Q",
+        "title": "Razor Shuriken",
+        "description": "Бросает шурикены в линию.",
+        "img": "https://www.mobafire.com/images/ability/zed-razor-shuriken.png"
+      },
+      {
+        "name": "W",
+        "title": "Living Shadow",
+        "description": "Создаёт тень, копирующую умения.",
+        "img": "https://www.mobafire.com/images/ability/zed-living-shadow.png"
+      },
+      {
+        "name": "E",
+        "title": "Shadow Slash",
+        "description": "AOE-урон вокруг себя и тени.",
+        "img": "https://www.mobafire.com/images/ability/zed-shadow-slash.png"
+      },
+      {
+        "name": "R",
+        "title": "Death Mark",
+        "description": "Отметка на цели; после взрыва наносится урон.",
+        "img": "https://www.mobafire.com/images/ability/zed-death-mark.png"
+      }
+    ],
+    "id": "zed",
+    "role": "Mid Jungle"
+  },
+  {
+    "title": "Zeri — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/zeri.png",
+    "description": "Zeri — мобильный стрелок, использующий электричество для бурст-урона и ускорения.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Living Battery",
+        "description": "Кража скорости при получении щитов.",
+        "img": "https://www.mobafire.com/images/ability/zeri-living-battery.png"
+      },
+      {
+        "name": "Q",
+        "title": "Burst Fire",
+        "description": "Стреляет серией зарядов или автоатакой в зависимости от режима.",
+        "img": "https://www.mobafire.com/images/ability/zeri-burst-fire.png"
+      },
+      {
+        "name": "W",
+        "title": "Ultrashock Laser",
+        "description": "Выстрел молнии, замедляющий врагов.",
+        "img": "https://www.mobafire.com/images/ability/zeri-ultrashock-laser.png"
+      },
+      {
+        "name": "E",
+        "title": "Spark Surge",
+        "description": "Рывок с перезарядкой атак; можно перепрыгивать стены.",
+        "img": "https://www.mobafire.com/images/ability/zeri-spark-surge.png"
+      },
+      {
+        "name": "R",
+        "title": "Lightning Crash",
+        "description": "АОЕ-зарядка, дающая скорость атаки и урон от электричества.",
+        "img": "https://www.mobafire.com/images/ability/zeri-lightning-crash.png"
+      }
+    ],
+    "id": "zeri",
+    "role": "Duo"
+  },
+  {
+    "title": "Ziggs — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/ziggs.png",
+    "description": "Ziggs — маг-дальник с фокусом на мощные AOE-умения и уничтожение башен.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Short Fuse",
+        "description": "Усиленная автоатака после умений.",
+        "img": "https://www.mobafire.com/images/ability/ziggs-short-fuse.png"
+      },
+      {
+        "name": "Q",
+        "title": "Bouncing Bomb",
+        "description": "Бросает отскакивающую бомбу.",
+        "img": "https://www.mobafire.com/images/ability/ziggs-bouncing-bomb.png"
+      },
+      {
+        "name": "W",
+        "title": "Satchel Charge",
+        "description": "Взрывчатка для отбрасывания врагов и себя; разрушает башни.",
+        "img": "https://www.mobafire.com/images/ability/ziggs-satchel-charge.png"
+      },
+      {
+        "name": "E",
+        "title": "Hexplosive Minefield",
+        "description": "Минное поле, замедляющее врагов.",
+        "img": "https://www.mobafire.com/images/ability/ziggs-hexplosive-minefield.png"
+      },
+      {
+        "name": "R",
+        "title": "Mega Inferno Bomb",
+        "description": "Глобальная бомба с огромным уроном по площади.",
+        "img": "https://www.mobafire.com/images/ability/ziggs-mega-inferno-bomb.png"
+      }
+    ],
+    "id": "ziggs",
+    "role": "Mid"
+  },
+  {
+    "title": "Zilean — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/zilean.png",
+    "description": "Zilean — саппорт и маг с контролем времени: ускоряет, замедляет и воскрешает союзников.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Time in a Bottle",
+        "description": "Опыт для союзников.",
+        "img": "https://www.mobafire.com/images/ability/zilean-time-in-a-bottle.png"
+      },
+      {
+        "name": "Q",
+        "title": "Time Bomb",
+        "description": "Бомба с задержкой взрыва, наносит AOE-урон.",
+        "img": "https://www.mobafire.com/images/ability/zilean-time-bomb.png"
+      },
+      {
+        "name": "W",
+        "title": "Rewind",
+        "description": "Снижает перезарядку других умений.",
+        "img": "https://www.mobafire.com/images/ability/zilean-rewind.png"
+      },
+      {
+        "name": "E",
+        "title": "Time Warp",
+        "description": "Ускоряет союзников или замедляет врагов.",
+        "img": "https://www.mobafire.com/images/ability/zilean-time-warp.png"
+      },
+      {
+        "name": "R",
+        "title": "Chronoshift",
+        "description": "Накладывает воскрешение на союзника.",
+        "img": "https://www.mobafire.com/images/ability/zilean-chronoshift.png"
+      }
+    ],
+    "id": "zilean",
+    "role": ""
+  },
+  {
+    "title": "Zoe — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/zoe.png",
+    "description": "Zoe — маг с взрывным уроном и высокой мобильностью за счёт порталов и усыпления врагов.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "More Sparkles!",
+        "description": "Автоатаки усиливаются после применения умений.",
+        "img": "https://www.mobafire.com/images/ability/zoe-more-sparkles.png"
+      },
+      {
+        "name": "Q",
+        "title": "Paddle Star",
+        "description": "Стрела-звезда с увеличением урона при дальнем полёте.",
+        "img": "https://www.mobafire.com/images/ability/zoe-paddle-star.png"
+      },
+      {
+        "name": "W",
+        "title": "Spell Thief",
+        "description": "Подбирает заклинания, выпавшие от врагов.",
+        "img": "https://www.mobafire.com/images/ability/zoe-spell-thief.png"
+      },
+      {
+        "name": "E",
+        "title": "Sleepy Trouble Bubble",
+        "description": "Усыпляет врага, затем наносит увеличенный урон.",
+        "img": "https://www.mobafire.com/images/ability/zoe-sleepy-trouble-bubble.png"
+      },
+      {
+        "name": "R",
+        "title": "Portal Jump",
+        "description": "Короткий блинк туда и обратно.",
+        "img": "https://www.mobafire.com/images/ability/zoe-portal-jump.png"
+      }
+    ],
+    "id": "zoe",
+    "role": "Mid"
+  },
+  {
+    "title": "Zyra — Гайд",
+    "img": "https://www.mobafire.com/images/champion/square/zyra.png",
+    "description": "Zyra — маг-контролер с ловушками и мощными АОЕ-комбо через растения.",
+    "skills": [
+      {
+        "name": "Пассив",
+        "title": "Garden of Thorns",
+        "description": "Семена растут рядом с ней.",
+        "img": "https://www.mobafire.com/images/ability/zyra-garden-of-thorns.png"
+      },
+      {
+        "name": "Q",
+        "title": "Deadly Spines",
+        "description": "Взрывает шипы на земле.",
+        "img": "https://www.mobafire.com/images/ability/zyra-deadly-spines.png"
+      },
+      {
+        "name": "W",
+        "title": "Rampant Growth",
+        "description": "Создаёт семя, которое активируется умениями.",
+        "img": "https://www.mobafire.com/images/ability/zyra-rampant-growth.png"
+      },
+      {
+        "name": "E",
+        "title": "Grasping Roots",
+        "description": "Ковыращие корни, удерживающие врагов.",
+        "img": "https://www.mobafire.com/images/ability/zyra-grasping-roots.png"
+      },
+      {
+        "name": "R",
+        "title": "Stranglethorns",
+        "description": "Огромное AOE-поле с нокапом врагов.",
+        "img": "https://www.mobafire.com/images/ability/zyra-stranglethorns.png"
+      }
+    ],
+    "id": "zyra",
+    "role": "Support Mid"
+  }
+]
