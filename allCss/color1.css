@@ -102,7 +102,7 @@ body {
   background-color: #fff200;
   color: #0f1b35;
   font-weight: bold;
-  box-shadow: 0 0 10px rgb(247, 173, 0);
+  box-shadow: 0 0 10px rgb(235, 247, 0);
 }
 ::placeholder {
   color: #999;
